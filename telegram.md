@@ -7,6 +7,23 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/30 06:12
+---
+
+## Persian_Trend_Official — post 14507
+
+<div align="center">
+  <a href="telegram/content/Persian_Trend_Official_14507_1779244967.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+صبحتون‌ بخیر ☕️🤍
+
+📝 Nick
+📌 @persian_trend_official
+پرشین ترند | متفاوت‌ترین کانال نظامی
+</div>
+
+---
 📅 بروزرسانی: 1405/02/30 06:02
 ---
 
