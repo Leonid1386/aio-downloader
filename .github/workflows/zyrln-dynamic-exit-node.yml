@@ -1,4 +1,4 @@
-name: zyrln-cloudflare-dynamic-exit-node
+name: zyrln-dynamic-exit-node
 
 on:
   workflow_dispatch:   # manual trigger from the Actions tab
