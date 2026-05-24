@@ -7,6 +7,21 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/03/04 02:12
+---
+
+## FoxNewsTwitter — post 342188
+
+<div align="center">
+  <img src="telegram/content/FoxNewsTwitter_342188_1779662571.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+WATCH LIVE: Graham Platner joins Sen. Bernie Sanders for 'Fighting Oligarchy' rally https://twitter.com/i/broadcasts/1DGLddvXkVZGm
+</div>
+
+---
 📅 بروزرسانی: 1405/03/04 02:02
 ---
 
