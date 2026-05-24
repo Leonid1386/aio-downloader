@@ -1,16 +1,26 @@
 name: zyrln-static-exit-node
 
 on:
-  workflow_dispatch:   # manual trigger
+  workflow_dispatch:
+    inputs:
+      vpn_enabled:
+        description: 'Route all traffic through WireGuard VPN (requires WG_CONFIG secret)'
+        type: boolean
+        default: false
 
 jobs:
   relay:
     runs-on: ubuntu-latest
-    timeout-minutes: 360   # 6 hours, extend if private repo
+    timeout-minutes: 360
 
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+
+      - name: "Set up WireGuard VPN (if enabled)"
+        id: vpn
+        run: |
+          # <--- insert the VPN setup block from above --->
 
       - name: Set up Go
         uses: actions/setup-go@v5
@@ -35,15 +45,13 @@ jobs:
             sleep 0.5
           done
 
-      - name: Install 
+      - name: Install cloudflared
         run: |
           curl -L https://github.com/cloudflare/cloudflared/releases/latest/download/cloudflared-linux-amd64 -o cloudflared
           chmod +x cloudflared
 
-      - name: Run
+      - name: Run static tunnel
         env:
           TUNNEL_TOKEN: ${{ secrets.CF_TUNNEL_TOKEN }}
         run: |
-          # This will connect the tunnel using the token. The tunnel is configured
-          # in Cloudflare to point to localhost:8787. The job stays alive.
           cloudflared tunnel run --token "$TUNNEL_TOKEN"
