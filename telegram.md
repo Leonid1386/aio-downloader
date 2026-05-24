@@ -7,6 +7,94 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/03/04 03:02
+---
+
+## FoxNewsTwitter — post 342190
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+‌Fox News (Twitter/X)
+
+Read more:
+</div>
+
+## FoxNewsTwitter — post 342189
+
+<div align="center">
+  <img src="telegram/content/FoxNewsTwitter_342189_1779665576.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+“They’re coming after your boy.”
+
+Hasan Piker is lashing out after federal officials subpoenaed him as part of an investigation tied to recent activist trips to communist Cuba.
+
+During a Twitch livestream, the left-wing political influencer claimed the probe is an “intimidation tactic” aimed at him for criticizing Israel and the United States, describing himself as a “loudmouth” and “rabble-rouser.”
+
+Fox News Digital previously reported that the Treasury Department’s Office of Foreign Assets Control is seeking documents tied to the financial, logistical, and communications details surrounding March trips to Cuba.
+</div>
+
+## FarsiVOA — post 218574
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⚡️«طمع» جمهوری اسلامی و امکان بازگشت به «نقطه صفر» در مذاکرات؛ گفت‌وگو با حسن هاشمیان
+FarsiVOA
+</div>
+
+## FarsiVOA — post 218573
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⚡️پرزیدنت ترامپ می‌گوید آمریکا برای توافق با جمهوری اسلامی عجله‌ ندارد
+@FarsiVOA
+</div>
+
+## Persian_Trend_Official — post 14901
+
+<div align="center">
+  <img src="telegram/content/Persian_Trend_Official_14901_1779665576.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+شبتون بخیر 🔥❤️
+
+📝 Nick
+📌 @persian_trend_official
+پرشین ترند | متفاوت‌ترین کانال نظامی
+</div>
+
+## BBCPersian — post 281975
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+‌ وزرای خارجه امارات متحده عربی، اردن، ترکیه، مصر، اندونزی، پاکستان، عربستان سعودی و قطر رفتار ایتامار بن گویر،‌ وزیر امنیت ملی اسرائیل با فعالان بازداشت شده ناوگان کمک به غزه را «وحشتناک،‌ تحقیرآمیز و غیرقابل قبول» خواندند و آن را به شدت محکوم کردند. در…
+</div>
+
+## BBCPersian — post 281974
+
+<div align="center">
+  <img src="telegram/content/BBCPersian_281974_1779665577.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+‌
+وزرای خارجه امارات متحده عربی، اردن، ترکیه، مصر، اندونزی، پاکستان، عربستان سعودی و قطر رفتار ایتامار بن گویر،‌ وزیر امنیت ملی اسرائیل با فعالان بازداشت شده ناوگان کمک به غزه را «وحشتناک،‌ تحقیرآمیز و غیرقابل قبول» خواندند و آن را به شدت محکوم کردند.
+
+در یک بیانیه مشترک که وزارت خارجه امارات متحده عربی روز یکشنبه سوم خرداد ماه منتشر کرد،‌ وزرای خارجه این کشورها تاکید کردند که « تحقیر عمدی بازداشت‌شدگان» بوسیله آقای بن گویر «تجاوزی ننگین به کرامت انسانی و نقض آشکار تعهدات اسرائیل تحت قوانین بین‌المللی، از جمله قوانین بشردوستانه بین‌المللی و قوانین بین‌المللی حقوق بشر است.»
+
+وزرای این کشورها خواستار پاسخگویی مقامات اسرائیلی در قبال رفتار آقای بن‌ گویر شدند.
+
+در این بیانیه هشدار داده شده که اقدامات «تحریک آمیز» آقای بن‌ گویر،‌ «نفرت و افراط‌‌گرایی را دامن می‌زند و مانع تلاش‌ها برای پیشبرد صلح عادلانه و پایدار بر اساس راه‌حل دو کشور می‌شود.»
+
+این وزرا همچنین «اقدامات غیرقانونی و افراطی تحریک‌آمیز و خشونت‌بار توسط آقای بن گویر و دیگر مقامات اسرائیلی علیه فلسطینیان» را به شدت محکوم کردند.
+
+📷Reuters
+ادامه خبر
+⬇️
+</div>
+
+---
 📅 بروزرسانی: 1405/03/04 02:52
 ---
 
