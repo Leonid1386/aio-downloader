@@ -7,6 +7,309 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/03/04 23:03
+---
+
+## VahidOOnLine — post 242170
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_242170_1779737606.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+مسعود پزشکیان گفت: «وقتی تصمیمی گرفته می‌شود، باید یک‌صدا از سیستم بیرون بیاید. من خیلی چیزها را دوست ندارم، اما وقتی تصمیم گرفته می‌شود، کوتاه می‌آیم.»
+
+او افزود: «اگر بتوانم معیشت و زندگی مردم را تامین کنم، آمریکا و اسرائیل نمی‌توانند در داخل کشور توطئه کنند.»
+‌🏁 🇬🇧 IranintlTV
+
+🤖 @VahidOOnLine
+</div>
+
+## pm_afshaa — post 91484
+
+<div align="center">
+  <a href="telegram/content/pm_afshaa_91484_1779737607.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴دبیر انجمن صنایع لبنی: قیمت لبنیات طی یک سال 90 درصد افزایش یافته.
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## pm_afshaa — post 91483
+
+<div align="center">
+  <a href="telegram/content/pm_afshaa_91483_1779737608.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴اکسیوس:
+دولت ترامپ از تشدید اقدامات نظامی اسرائیل در لبنان حمایت خواهد کرد.
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## DEJradio — post 4955
+
+<div align="center">
+  <a href="telegram/content/DEJradio_4955_1779737609.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⭕️ خبر ۲۱
+دوشنبه ۴ خرداد ۱۴۰۵
+
+#خبر۲۱
+
+@DEJradio
+</div>
+
+## DEJradio — post 4954
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🛑
+⭕️ منابع غربی ادعا می‌کنند حکومت ایران «پشت‌پرده» تعهداتی در زمینه واگذاری اورانیوم غنی‌شده داده است. روزنامه «نیویورک‌پست»، به نقل از یک مقام آمریکایی گزارش داد «۹۵ درصد کار انجام شده»، در مقابل اما خبرگزاری رویترز به نقل از یک منبع دیگر گزارش داد جمهوری‌اسلامی با کنار گذاشتن ذخایر اورانیوم غنی‌شده موافقت نکرده است.
+منابع داخلی نزدیک به سـ.ـپاه پاسداران نیز ادعا کرده‌اند که مجتبی خامنه‌ای با واگذاری اورانیوم‌های غنی شده مخالفت کرده اما چه کسانی درون حکومت برای انتقال اورانیوم‌ها به خارج از ایران به ترامپ قول همکاری داده‌اند؟ در شرایطی که سپاه پاسداران تعیین می‌کند چه کسانی طرف مذاکره با آمریکا باشند آیا کسانی که به آمریکا قول همکاری داده‌اند چراغ سبز سپاه را داشته‌اند؟
+
+#اورانیوم
+@DEJradio
+</div>
+
+## DEJradio — post 4953
+
+<div align="center">
+  <a href="telegram/content/DEJradio_4953_1779737612.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🎥
+🔺 در برلین روز یکشنبه سوم خرداد ۱۴۰۵ شماری از اوباش حامی نظام که با افراطی‌های حامی‌ فلسطین همدست شده بودند و برای ایرانیان میهن‌دوست مزاحمت درست کردند، مورد نوازش قرار گرفتند و سپس بازداشت شدند.
+
+#مزدوران #برلین
+@DEJradio
+</div>
+
+## VahidOnline — post 75712
+
+<div align="center">
+  <img src="telegram/content/VahidOnline_75712_1779737613.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+الجزیره به نقل از یک منبع آگاه از گفت‌وگوهای میان هیات عالی‌رتبه ایرانی و مقام‌های قطری در دوحه گزارش داد میانجی‌گری قطر به دستیابی به تفاهمی میان آمریکا و جمهوری اسلامی درباره دارایی‌های مسدودشده تهران منجر شده است.
+این منبع افزود با توجه به اهمیت بالای این موضوع برای ایران، احتمال زیادی وجود دارد توافق میان آمریکا و جمهوری اسلامی فردا اعلام شود.
+
+@VahidOOnLine
+
+📡 @VahidOnline
+</div>
+
+## VahidOnline — post 75711
+
+<div align="center">
+  <img src="telegram/content/VahidOnline_75711_1779737614.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ستار هاشمی، وزیر ارتباطات و فناوری اطلاعات، شامگاه دوشنبه چهارم خرداد ماه، در گفتگو با روزنامه شرق اعلام کرد بازگشایی اینترنت بر ایرانیان آغاز شده است.
+وزیر ارتباطات در این گفتگو رخدادهای حال حاضر ایران را «پیام‌آور پایداری، اعتماد ملی و ثبات کشور» توصیف کرد و گفت: «با دستور رئیس‌جمهوری و پس از برگزاری سه جلسه فشرده کارشناسی و در نهایت اولین جلسه رسمی ستاد ویژه، فرایند بازگرداندن اینترنت کشور به وضعیت قبل از دی‌ماه ۱۴۰۴ آغاز شده است.»
+هاشمی افزود در نخستین جلسه رسمی ستاد، مصوبه بازگشایی اینترنت با ۹ رای موافق در برابر دو رای مخالف تصویب شده و پس از تایید رئیس‌جمهوری، برای اجرا به وزارت ارتباطات ابلاغ خواهد شد.
+او همچنین گفت تجربه ماه‌های اخیر نشان داده اینترنت تنها یک ابزار ارتباطی نیست، بلکه بخشی از زیرساخت حیاتی کشور در حوزه‌هایی مانند اقتصاد، آموزش، سلامت و خدمات عمومی محسوب می‌شود و اختلال گسترده در آن تبعات زنجیره‌ای برای جامعه ایجاد می‌کند.
+هاشمی با اشاره به خسارت‌های ناشی از محدودیت اینترنت گفت ادامه این وضعیت می‌توانست به «تضعیف سرمایه‌گذاری، مهاجرت نیروهای انسانی نخبه و گسترش الگوهای ارتباطی خارج از چارچوب حکمرانی رسمی کشور» منجر شود.
+وزیر ارتباطات در این گفتگو ادعا کرد، دولت پزشکیان از آغاز فعالیت خود تلاش کرده میان «ملاحظات امنیتی، فنی و اجتماعی» توازن برقرار کند و آثار اختلالات ارتباطی بر زندگی مردم و کسب‌وکارها را کاهش دهد.
+@VahidOOnLine
+
+📡 @VahidOnline
+</div>
+
+## IranIntlTV — post 338980
+
+<div align="center">
+  <img src="telegram/content/IranIntlTV_338980_1779737615.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+مسعود پزشکیان گفت: «وقتی تصمیمی گرفته می‌شود، باید یک‌صدا از سیستم بیرون بیاید. من خیلی چیزها را دوست ندارم، اما وقتی تصمیم گرفته می‌شود، کوتاه می‌آیم.»
+
+او افزود: «اگر بتوانم معیشت و زندگی مردم را تامین کنم، آمریکا و اسرائیل نمی‌توانند در داخل کشور توطئه کنند.»
+https://iranintl.com/202605258505
+</div>
+
+## IranIntlTV — post 338979
+
+<div align="center">
+  <a href="https://t.me/IranintlTV/338979" target="_blank">📎 Download file</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🎧نسخه صوتی چشم‌انداز: تحرکات قالیباف در قطر، دور از چشم و گوش مجتبی و سپاه!
+@iranintlTV
+</div>
+
+## IranIntlTV — post 338978
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_338978_1779737616.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+تحرکات قالیباف در قطر، دور از چشم و گوش مجتبی و سپاه!
+
+چشم‌انداز با مهدی مهدوی‌آزاد
+
+تماشای نسخه کامل در یوتیوب:
+https://youtu.be/WCt7x569huw
+@iranintltv
+</div>
+
+## Persian_Trend_Official — post 14977
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+کانال رسمی پرشین ترند pinned «https://youtube.com/live/81sH1UrOPAM?feature=share»
+</div>
+
+## Persian_Trend_Official — post 14976
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+https://youtube.com/live/81sH1UrOPAM?feature=share
+</div>
+
+## Persian_Trend_Official — post 14975
+
+<div align="center">
+  <img src="telegram/content/Persian_Trend_Official_14975_1779737619.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ارتش اسرائیل اعلام کرد که عملیات پیکان‌های آتش را در سراسر لبنان آغاز کرده است.
+
+
+
+
+👩‍💻@PhantomDirective
+
+
+🆔@persian_trend_official
+پرشین ترند | متفاوت‌ترین کانال نظامی
+</div>
+
+## Persian_Trend_Official — post 14974
+
+<div align="center">
+  <a href="telegram/content/Persian_Trend_Official_14974_1779737619.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🇱🇧تخلیه‌ در جنوب بیروت
+
+
+👩‍💻@PhantomDirective
+
+
+🆔@persian_trend_official
+پرشین ترند | متفاوت‌ترین کانال نظامی
+</div>
+
+## RadioFarda — post 157551
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔸بنیامین نتانیاهو، نخست وزیر اسرائیل، روز دوشنبه خبر داد که دستور حملات تازه به جنوب لبنان در تلاش برای «خرد کردن» گروه حزب‌الله را صادر کرده است.
+
+🔸ساعتی بعد خبرگزاری‌ها از چند حمله شدید اسرائیل به این منطقه خبر دادند.
+
+🔸نتانیاهو در ویدئویی که در شبکه تلگرام منتشر شد خبر داد که خواستار «سرعت بیشتر دادن» به حملات ارتش اسرائیل شده است.
+
+🔸او همچنین حزب‌الله را متهم کرد که با پهپاد نیروهای اسرائیلی را هدف گرفته است.
+
+🔸صدور دستور حمله بیشتر به لبنان همزمان است با خواسته دو وزیر افراطی در کابینه اسرائیل که در همین روز خواستار تشدید حملات به جنوب لبنان و همین طور پایتخت، بیروت، شده بودند.
+
+🔸حمله اسرائیل به این منطقه در حالی رخ می‌دهد که در سوی دیگر تهران و واشینگتن از جمله درباره پایان جنگ در لبنان مذاکره می‌کنند.
+
+🔸حکومت ایران در هر دور از مذاکرات اخیر خود با آمریکا، پایان جنگ در لبنان را نیز خواستار شده است.
+
+🔸حملات متقابل اسرائیل و حزب‌الله در حالی رخ می‌دهد که دو طرف بیش از یک ماه است که به طور اسمی در آتش‌بس به سر می‌برند.
+
+@RadioFarda
+</div>
+
+## Dirty_Kids — post 390180
+
+<div align="center">
+  <img src="telegram/content/Dirty_Kids_390180_1779737622.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+این نوشته آخوند رسایی در پلتفرم داخلی ویراستی که محبوب شیعه‌های تندرو هست نوشته شده با این حال 1279 دیسلایک گرفته
+
+توی پتلفرم خودشون هم نمیتونه محبوب باشه
+
+
+@Dirty_Kids 👻
+</div>
+
+## Hranews — post 113165
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+گزارشی از تجمع اعتراضی رانندگان استیجاری در تهران
+
+
+❗️
+❗️
+❗️
+❗️
+❗️– امروز دوشنبه ۴ خردادماه، جمعی از رانندگان استیجاری از استان‌های مختلف برای سومین روز متوالی در مقابل ساختمان نهاد ریاست جمهوری در تهران، #تجمع_اعتراضی برگزار کردند.
+
+ادامه مطلب
+
+↘️
+@hranews_bot تماس ✉️ - @Hranews کانال هرانا 🆑
+</div>
+
+## alonews — post 122654
+
+<div align="center">
+  <a href="telegram/content/alonews_122654_1779737623.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈 علی قلهکی: «قالیباف» به عنوان مسئولِ تیم مذاکره کننده ایران، «قرارِ دوم در پاکستان» را شرکت نکرد، ولی امروز بدون اطلاع رسانیِ قبلی همراه با «عراقچی» و «همتی» به قطر رفت!
+
+
+🔴حتما «موضوعات مهمی!» در قطر مورد بحث قرار گرفته که میزبانِ سران ایران بوده است؛ آنهم کشوری که در دو جنگ اخیر خاکش بارها مورد اصابت قرار گرفته!
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 122651
+
+<div align="center">
+  <a href="telegram/content/alonews_122651_1779737623.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈 حمله‌های جدید ارتش اسرائیل به جنوب لبنان
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 122650
+
+<div align="center">
+  <a href="telegram/content/alonews_122650_1779737623.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈یدیعوت آحارونوت: کاخ سفید نتوانست درک کند که جنگ بدون استراتژی به چیزی بین شکست و تحقیر منجر می‌شود؛ ترامپ حتی نتوانست افکار عمومی آمریکا را قانع کند.
+
+
+🔴اگر آتش‌بس شامل برداشتن محاصره دریایی باشد، ترامپ خود را به مسخره خواهد گرفت.
+
+
+🔴با شکست آمریکا، اسرائیل اکنون با بدترین وضعیت استراتژیک تاریخ خود روبرو است: سه جبهه فعال — ایران، حزب‌الله و حماس — و هیچ فضای مانور.
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/03/04 22:52
 ---
 
