@@ -7,6 +7,275 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/03/04 21:04
+---
+
+## WithYashar — post 12446
+
+<div align="center">
+  <a href="telegram/content/WithYashar_12446_1779730467.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+دونالد ترامپ: "در دو جنگ اخیر، مجموعاً ۱۳ تن از نیروهای نظامی خود را از دست داده‌ایم... در عملیات «خشم حماسی»، ۱۳ جان فوق‌العاده را از دست دادیم."
+@withyashar
+</div>
+
+## mwarmonitor — post 9703
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+باراک راوید:
+
+🚨 یک مقام ارشد آمریکایی امشب اشاره کرده است که دولت ترامپ از تشدید اقدامات اسرائیل علیه حزب‌الله حمایت خواهد کرد.
+
+🚨 این مقام آمریکایی به من گفت: «حزب‌الله درخواست‌های مکرر برای توقف شلیک به سمت اسرائیل را نادیده گرفته است، از جمله اولتیماتومی که اخیراً منتقل شد. اسرائیل هرگز مجبور نخواهد شد به‌طور منفعلانه حملات علیه نیروها و غیرنظامیانش را تحمل کند. این دولت بایدن نیست.»
+
+🚨 این مقام آمریکایی اشاره کرد که از ۱۷ آوریل، حزب‌الله بیش از هزار پهپاد و بیش از ۷۰۰ راکت شلیک کرده است تا روند مذاکرات جاری بین لبنان و اسرائیل را مختل کند. او گفت: «وضع موجود قابل دوام نیست.»
+
+🚨 این مقام آمریکایی افزود: «حزب‌الله به‌طور کامل مسئول وضعیت فعلی است. این گروه آتش‌بس ۲ مارس را نقض کرده و اکنون مصمم است مانع از مسیر صلح و بازسازی برای مردم لبنان شود.»
+
+🚨 به گفته این مقام، حزب‌الله از مذاکراتی که دولت لبنان با حمایت آمریکا با اسرائیل انجام می‌دهد نگران است. او گفت: «این موضوع برای حزب‌الله یک تهدید وجودی است.»
+
+🚨 این مقام همچنین افزود: «یک آتش‌بس موفق به رهبری دولت لبنان، حزب‌الله را از قدرت و روایت خود محروم خواهد کرد.»
+
+
+@mwarmonitor
+</div>
+
+## FoxNewsTwitter — post 342235
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_342235_1779730469.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+NOW: President Trump and VP Vance give a heartfelt salute as 'Taps' echoes across Arlington National Cemetery during the Memorial Day ceremony.
+</div>
+
+## FoxNewsTwitter — post 342234
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_342234_1779730472.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+NOW President Trump delivers a powerful tribute to America's fallen heroes, honoring the legacy of our nation's military, spanning from the early days of America all the way to the present.
+
+"From 1776 to 2026, America has always stood as a great and moral cause. Our warriors are no mere mercenaries.”
+
+“They are guardian angels who stride across the battlefields of history and stand watch over the highest and most beautiful plains the human spirit has ever seen, holding the line between liberty and tyranny, between civilization and barbarism, between good and evil."
+</div>
+
+## FoxNewsTwitter — post 342233
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_342233_1779730475.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+BREAKING: President Trump pays tribute to the 13 American service members killed during recent military operations.
+
+“We lost 13 wonderful souls... These incredible men and women gave their lives to ensure that the world's number one state sponsor of terror will never have a nuclear weapon," Trump said before recognizing the family of Major Ariana Savanah Saville during the Memorial Day event.
+
+"Ariana's selfless gift will not be in vain. Our debt to you is everlasting, and it's always going to end in victory."
+</div>
+
+## pm_afshaa — post 91471
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+روزنامه هم‌میهن: رئیس‌جمهور دستور بازگشایی اینترنت بین‌الملل را ابلاغ کرد 
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom 
+😁 @Pm_Afshaa
+</div>
+
+## pm_afshaa — post 91470
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴یک مقام آمریکایی به الجزیره: حزب‌الله درخواست‌های مکرر برای آتش‌بس با اسرائیل را نادیده گرفته است. اسرائیل به حملات هدفمند علیه سربازان و شهروندان خود پاسخ خواهد داد
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## pm_afshaa — post 91469
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+روزنامه هم‌میهن: رئیس‌جمهور دستور بازگشایی اینترنت بین‌الملل را ابلاغ کرد
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## IranIntlTV — post 338959
+
+<div align="center">
+  <img src="telegram/content/IranIntlTV_338959_1779730478.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+خبرگزاری تسنیم، وابسته به سپاه پاسداران، نوشت که اخبار منتشرشده از سوی شبکه الحدث مبنی بر اعلام آمادگی جمهوری اسلامی برای خروج مواد هسته‌ای «کذب» است و در متن تفاهم‌نامه‌ای که تا امروز وجود دارد، هیچ جمله‌ای مبنی بر اعلام آمادگی برای خروج مواد هسته‌ای وجود ندارد.
+https://iranintl.com/202605255310
+</div>
+
+## Persian_Trend_Official — post 14960
+
+<div align="center">
+  <a href="telegram/content/Persian_Trend_Official_14960_1779730479.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+یک روز نسبتا کم کار فرودگاه بن گوریون
+
+
+👩‍💻@PhantomDirective
+
+🆔@persian_trend_official
+پرشین ترند | متفاوت‌ترین کانال نظامی
+</div>
+
+## Persian_Trend_Official — post 14959
+
+<div align="center">
+  <img src="telegram/content/Persian_Trend_Official_14959_1779730480.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+مذاکرات با جمهوری اسلامی ایران به‌خوبی پیش می‌رود! یا یک توافق بزرگ برای همه حاصل خواهد شد، یا اصلاً توافقی در کار نخواهد بود؛ در غیر این صورت، بازگشت به میدان نبرد و درگیری رخ می‌دهد، آن هم شدیدتر و قدرتمندتر از گذشته، و هیچ‌کس چنین چیزی را نمی‌خواهد.
+
+در گفت‌وگوهایی که روز شنبه با محمد بن سلمان ولیعهد عربستان سعودی، محمد بن زاید آل نهیان رئیس امارات، شیخ تمیم بن حمد آل ثانی امیر قطر، نخست‌وزیر و وزیر خارجه قطر، عاصم منیر فرمانده ارتش پاکستان، رجب طیب اردوغان رئیس‌جمهور ترکیه، عبدالفتاح السیسی رئیس‌جمهور مصر، ملک عبدالله دوم پادشاه اردن و حمد بن عیسی آل خلیفه پادشاه بحرین داشتم، تأکید کردم که پس از تلاش‌های آمریکا برای حل این مسئله پیچیده، لازم است همه این کشورها دست‌کم به‌صورت هم‌زمان به توافقنامه‌های ابراهیم بپیوندند.
+
+کشورهای مورد بحث شامل عربستان سعودی، امارات متحده عربی، قطر، پاکستان، ترکیه، مصر، اردن و بحرین هستند. ممکن است یکی دو کشور دلایلی برای عدم پیوستن داشته باشند و این قابل قبول خواهد بود، اما بیشتر آن‌ها باید آماده این توافق باشند تا حل‌وفصل مسئله ایران به رویدادی تاریخی‌تر تبدیل شود.
+
+ترامپ در ادامه مدعی شده توافقنامه‌های ابراهیم برای کشورهای عضو آن — شامل امارات، بحرین، مراکش، سودان و قزاقستان — باعث رونق اقتصادی، مالی و اجتماعی شده و می‌تواند صلح و قدرت بیشتری برای خاورمیانه به همراه داشته باشد.
+
+او همچنین گفته عربستان سعودی و قطر باید فوراً این توافقنامه‌ها را امضا کنند و دیگر کشورها نیز از آن‌ها پیروی کنند. ترامپ ادعا کرده در صورت امضای توافق با ایران، حضور ایران در توافقنامه‌های ابراهیم نیز می‌تواند بخشی از این ائتلاف بزرگ منطقه‌ای باشد.
+
+در پایان، ترامپ از نمایندگان خود خواسته روند پیوستن کشورهای مذکور به توافقنامه‌های ابراهیم را آغاز و تکمیل کنند و این توافق را «مهم‌ترین توافق تاریخ خاورمیانه» توصیف کرده است.
+</div>
+
+## RadioFarda — post 157549
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔸احمد دنیامالی، وزیر ورزش جمهوری اسلامی، روز دوشنبه گفت: «فیفا همه تمهیدات را از قبل با آمریکایی‌ها هماهنگ کرده و به ما قول داده که همه بازیکنان ویزا دریافت می‌کنند و هیچ دلیلی وجود ندارد که بازیکن ما ویزا نگیرد.» 🔸به گزارش باشگاه خبرنگاران جوان، او ادامه…
+</div>
+
+## RadioFarda — post 157548
+
+<div align="center">
+  <img src="telegram/content/RadioFarda_157548_1779730481.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔸احمد دنیامالی، وزیر ورزش جمهوری اسلامی، روز دوشنبه گفت: «فیفا همه تمهیدات را از قبل با آمریکایی‌ها هماهنگ کرده و به ما قول داده که همه بازیکنان ویزا دریافت می‌کنند و هیچ دلیلی وجود ندارد که بازیکن ما ویزا نگیرد.»
+
+🔸به گزارش باشگاه خبرنگاران جوان، او ادامه داد: «در جلسه‌ای که رئیس فدراسیون فوتبال با مسئولان فیفا داشت، اعلام کردیم که اگر حتی به یک بازیکن ما ویزا داده نشود، قابل قبول نیست.»
+
+🔸همزمان کلودیا شِین‌بام، رئیس جمهور مکزیک، روز دوشنبه فاش کرد که دولت آمریکا نمی‌خواسته میزبان اردوی تیم ملی ایران باشد، و به همین دلیل مقر تیم ملی پس از موافقت خانم شین‌بام به مکزیک منتقل شده است.
+
+🔸مهدی تاج، رئیس فدراسیون فوتبال ایران، اعلام کرده بود که تیم ملی فوتبال در جریان جام جهانی ۲۰۲۶ در شهر مرزی تیخوانا در مکزیک، همسایه ایالت کالیفرنیا، مستقر خواهد شد.
+
+🔸او روز شنبه دوم خرداد ادعا کرده بود که فدراسیون جهانی فوتبال، فیفا، با «درخواست ایران» برای انتقال محل اردو از ایالت آریزونا آمریکا موافقت کرده است.
+
+@RadioFarda
+</div>
+
+## Dirty_Kids — post 390170
+
+<div align="center">
+  <a href="telegram/content/Dirty_Kids_390170_1779730482.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ارزش دانلود برای فمنیستا ۱ از ۱۰
+برای مردا ۹ از ۱۰
+
+
+@Dirty_Kids 👻
+</div>
+
+## Hranews — post 113159
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+گزارشی از مطالبات مزدی، بیمه‌ای و بیکاری کارگران در شهرهای مختلف
+
+
+❗️
+❗️
+❗️
+❗️
+❗️– کارگران ابنیه فنی راه‌آهن زاهدان از تعلیق شماری از همکارانشان پس از پیگیری مطالبات صنفی خبر داده و اعلام کردند که به دلیل عدم پرداخت چندین ماه حق بیمه توسط کارفرما از دریافت خدمات بیمه و امکانات درمانی نیز محروم مانده‌اند. همچنین، #کارگران کارخانه فولاد سیادن ابهر از تاخیر در پرداخت حقوق اردیبهشت ماه و دیگر مشکلات شغلی خود انتقاد کردند. افزون بر این، مدیرکل تعاون، کار و رفاه اجتماعی خراسان جنوبی اعلام کرد که از ابتدای امسال تاکنون، ۵۲۷ نفر از کارگران واحدهای تولیدی این استان از چرخه کار خارج شده‌اند و اکنون تحت پوشش بیمه بیکاری قرار دارند.
+
+ادامه مطلب
+
+↘️
+@hranews_bot تماس ✉️ - @Hranews کانال هرانا 🆑
+</div>
+
+## alonews — post 122630
+
+<div align="center">
+  <img src="telegram/content/alonews_122630_1779730484.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🌟 اشتراک v2ray
+
+
+🗯گیگی 120,000 تومان
+
+🔗لینک ساب برا چک کردن مصرف و حجمتون
+
+🔥سرعت و کیفیت بالا
+
+✅ پشتیبانی دائم
+
+
+📱جهت خرید : @v2safeBot
+</div>
+
+## alonews — post 122628
+
+<div align="center">
+  <a href="telegram/content/alonews_122628_1779730485.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈قیمت نفت امریکا برای اولین بار از ۷ می به زیر ۹۰ دلار در هر بشکه سقوط کرد.
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 122627
+
+<div align="center">
+  <a href="telegram/content/alonews_122627_1779730485.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴فووووووووووری/فارس: اینترنت باید با دستور شعام باز بشه و فعلا خبری نیست
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 122626
+
+<div align="center">
+  <a href="telegram/content/alonews_122626_1779730485.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈مدیر روابط‌عمومی وزارت قطع ارتباطات خبر داد: رئیس‌جمهور دستور بازگشایی اینترنت بین‌الملل را ابلاغ کرده است
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/03/04 20:53
 ---
 
