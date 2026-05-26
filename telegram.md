@@ -7,6 +7,127 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/03/05 13:33
+---
+
+## WithYashar — post 12541
+
+<div align="center">
+  <img src="telegram/content/WithYashar_12541_1779789789.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ترامپ در تروث : توافق اوباما با ایران , مقدار عظیمی پول فرستاد تا خیانتِ برنامهٔ هسته‌ای را تأمین مالی کند.
+@withyashar
+</div>
+
+## WithYashar — post 12540
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+معاون وزیر ارتباطات: دقایقی دیگر اولین دسترسی ها به اینترنت بین الملل ایجاد می شود و رفته رفته مرم شاهد بازگشایی تدریجی اینترنت خواهند بود و تا ۲۴ ساعت دیگر همه مردم به اینترنت بین الملل متصل می شوند./خبر آنلاین
+@withyashar
+</div>
+
+## FarsiVOA — post 218686
+
+<div align="center">
+  <a href="telegram/content/FarsiVOA_218686_1779789790.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+لحظه رهگیری و سقوط موشک کروز روسی روی زمین تنیس در کی‌یف؛
+
+ویدیوی منتشرشده در شبکه‌های اجتماعی، لحظه مستقیم رهگیری یک موشک کروز «خا-۱۰۱» روسیه را دقیقاً از بالای سر یک فیلم‌بردار در کی‌یف و سقوط آن بر روی زمین تنیس در همان نزدیکی نشان می‌دهد. این موشک پس از برخورد منفجر نشد و تنها سوخت آن در آتش سوخت.
+
+حملات گسترده موشکی و پهپادی ارتش روسیه به مناطق مسکونی و اهداف غیرنظامی در کی‌یف، پایتخت اوکراین، در چند روز گذشته ادامه داشته است.
+@FarsiVOA
+</div>
+
+## Dirty_Kids — post 390219
+
+<div align="center">
+  <a href="telegram/content/Dirty_Kids_390219_1779789791.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+دختر شایسته ی وین کانتی ایالت میشیگان🥴
+
+یعنی خدیجه البنت الجنده‌ها رو ریختن تو میشیگان ها!
+
+
+@Dirty_Kids 👻
+</div>
+
+## Dirty_Kids — post 390218
+
+<div align="center">
+  <img src="telegram/content/Dirty_Kids_390218_1779789792.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+بادبان با همراهی شما 90 هزار نفری شد!
+🎉
+
+
+🛒به این مناسبت، قیمت سرویس‌ها تا گیگی 150 هزار تومان کاهش پیدا کرد! 
+🚀
+
+
+🎁 کد تخفیف خرید اول دوباره ریست شد و همه میتونن ازش استفاده کنن:
+BadBan4k
+
+
+💸 با این کد، 50 هزار تومان تخفیف روی اولین خریدت بگیر!
+
+
+🔥و مهم‌تر از همه...
+سیستم معرفی بادبان فعال‌تر از همیشه‌ست!
+از تمام خریدهای کاربرانی که معرفی میکنی، 10% خریدشون رو پورسانت دائمی دریافت کن و موجودی کیف پولت رو افزایش بده 
+💼
+
+وقتی بادبان داری،
+هیچ بادی مانع نیست… حتی وقتی اینترنت ملیه
+⛵️
+A5
+
+🛡@BadBan_VPN | کانال 
+
+🤖@BadBan_VPNBot | ربات 
+
+📞@BadBan_VPNSupport | پشتیبانی
+</div>
+
+## Dirty_Kids — post 390217
+
+<div align="center">
+  <img src="telegram/content/Dirty_Kids_390217_1779789793.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+امروز روزِ نود گرفتن از کسیه که روش کراشی.
+
+
+@Dirty_Kids 👻
+</div>
+
+## Dirty_Kids — post 390216
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+معاون وزارت قطع ارتباطات از بازگشایی تدریجی اینترنت تا دقایقی دیگر خبر داد و گفت دسترسی کامل مردم به اینترنت تا ۲۴ ساعت آینده میسر می شود. بر اساس اعلام یک منبع مطلع، برخی سرویس‌ها و پیام‌رسان‌های بین‌المللی نیز به‌تدریج و در چارچوب فازهای بعدی بازگشایی شبکه، در دسترس کاربران قرار خواهند گرفت و در فاز اول بازگشایی قرار ندارند.
+
+
+
+@Dirty_Kids 👻
+</div>
+
+## alonews — post 122767
+
+<div align="center">
+  <a href="telegram/content/alonews_122767_1779789793.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈سیتنا: دستور وزیر ارتباطات برای اتصال اینترنت صادر شد؛ اتصال جهانی ایران از همین دقایق احیا می‌شود؛ اتصال کامل مردم تا 24 ساعت آینده 
+🔴 معاون سیاست گذاری و برنامه‌ریزی توسعه فاوا و اقتصاد دیجیتال وزارت ارتباطات، در پی دستور رییس جمهور از بازگشایی تدریجی اینترنت…
+</div>
+
+---
 📅 بروزرسانی: 1405/03/05 13:23
 ---
 
