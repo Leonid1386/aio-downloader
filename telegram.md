@@ -7,6 +7,384 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/03/06 20:03
+---
+
+## VahidOOnLine — post 242453
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_242453_1779899625.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+دونالد ترامپ، رییس‌جمهوری آمریکا، چهارشنبه در نشست کابینه گفت جمهوری اسلامی به‌شدت خواهان دستیابی به توافق است، اما آمریکا هنوز از آن راضی نیست.
+
+ترامپ پیش‌تر گفت تهران در ازای واگذاری و تحویل اورانیوم با غنای بالا، هیچ امتیاز یا کاهش تحریمی دریافت نخواهد کرد.
+‌🏁 🇬🇧 IranintlTV
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 242452
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️دونالد‌ ترامپ، رئیس‌جمهوری آمریکا، چهارشنبه ششم خرداد، در نشست کابینه در کاخ سفید درباره مذاکرات با جمهوری اسلامی گفت تهران «بسیار مشتاق» توافق است، اما مذاکرات هنوز به نتیجه نهایی نرسیده است.
+
+ترامپ گفت: «آنها واقعا می‌خواهند توافق کنند. تا الان به نتیجه نرسیده‌اند. ما از وضعیت فعلی راضی نیستیم، ولی خواهیم شد.»
+
+رئیس‌جمهوری آمریکا همچنین جمهوری اسلامی را تحت فشار شدید توصیف کرد و گفت: «نیروی دریایی‌شان نابود شده، نیروی هوایی از بین رفته و همه‌چیزشان از دست رفته است.»
+
+ترامپ افزود جمهوری اسلامی «در حالی مذاکره می‌کند که چیزی برایش باقی نمانده» و هشدار داد اگر توافق حاصل نشود، آمریکا ممکن است «برگردد و کار را تمام کند.»
+
+او همچنین گفت اقتصاد ایران «در حال سقوط آزاد» است و تهران به‌دلیل فشارهای سنگین، گزینه دیگری جز حرکت به‌سوی توافق ندارد.
+‌🇸🇦 Indypersian
+
+🤖 @VahidOOnLine
+</div>
+
+## WithYashar — post 12701
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+پست جدید یه یا موسی کامنت کنین بی بی و پسرش و زنش رو تگ کنین امشب بزنه 🤣💥💥🌶️🌶️ https://www.instagram.com/reel/DY2Hk4hoW2r/?igsh=MXYyMDlxdjY5b3QwZg==
+</div>
+
+## mwarmonitor — post 9828
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴وزیر امور خارجه آمریکا، مارکو روبیو: «ما در مورد ایران مقداری پیشرفت داشته‌ایم و طی چند ساعت یا چند روز آینده خواهیم دید که آیا پیشرفت بیشتری حاصل خواهد شد یا نه.»
+
+@mwarmonitor
+</div>
+
+## mwarmonitor — post 9827
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴ترامپ: «ایران بسیار جدی است و خیلی می‌خواهد به یک توافق برسد. تا این لحظه هنوز به آن نرسیده‌اند... ما از این وضعیت راضی نیستیم، اما خواهیم دید. یا به توافق می‌رسیم، یا مجبور خواهیم شد کار را تمام کنیم.»
+
+@mwarmonitor
+</div>
+
+## FoxNewsTwitter — post 342312
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_342312_1779899626.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+NOW: VP Vance praises President Trump’s leadership for helping the fraud task force break down barriers, go after fraudsters, and save Americans money.
+
+"I'll come to the president and say, Mr. President, I need your permission to do..."
+
+"He'll say, for what? For the fraud task force. And he'll cut me off and say, yes, go do it."
+</div>
+
+## FoxNewsTwitter — post 342311
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_342311_1779899629.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+BREAKING: President Trump gives a massive shoutout to Tulsi Gabbard, commending her tireless work as Director of National Intelligence following the announcement of her resignation due to her husband’s health:
+
+"Tulsi has worked tirelessly to restore trust and focus with the intelligence community, they all respected her. They listened to her. She gave us leads that were pretty much, people thought they were dead and they weren't dead."
+
+"Tulsi, we're praying for you and for your husband. Her husband's not feeling great, but he's going to feel great soon. You're going to make him- you're going to get them better. And he's a wonderful guy. So just say hello and thank you for the great work you've done."
+</div>
+
+## FoxNewsTwitter — post 342310
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+BREAKING: President Trump blasts fraudsters, "Somalians," and Rep. Ilhan Omar for "what they've done to Minnesota."
+
+"They're all crooks, the Somalians, and what they've done to Minnesota... They're crooked as hell."
+
+"Ilhan Omar crooked is hell. They're all crooks."
+
+"We got them. Now we're putting the clamps on."
+</div>
+
+## VahidOnline — post 75756
+
+<div align="center">
+  <img src="telegram/content/VahidOnline_75756_1779899633.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⚠️تصاویر دلخراش از اجساد مردم کشته‌شده در بیمارستان تهرانپارس تهران 
+⚠️ دو روز پیش ویدیوی دوم رو با تردید منتشر کرده بودم و نوشته بودم نمی‌دونم درسته یا نه. حالا عکس‌هایی از بیمارستان تهرانپارس با شرح جان‌باختگان ۱۸ و ۱۹ دی دریافت کردم که نشون میدن اون ویدیو…
+</div>
+
+## VahidOnline — post 75755
+
+<div align="center">
+  <a href="telegram/content/VahidOnline_75755_1779899634.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+دونالد‌ ترامپ، رئیس‌جمهوری آمریکا، چهارشنبه ششم خرداد، در نشست کابینه در کاخ سفید درباره مذاکرات با جمهوری اسلامی گفت تهران «بسیار مشتاق» توافق است، اما مذاکرات هنوز به نتیجه نهایی نرسیده است.
+
+ترامپ گفت: «آنها واقعا می‌خواهند توافق کنند. تا الان به نتیجه نرسیده‌اند. ما از وضعیت فعلی راضی نیستیم، ولی خواهیم شد.»
+
+رئیس‌جمهوری آمریکا همچنین جمهوری اسلامی را تحت فشار شدید توصیف کرد و گفت: «نیروی دریایی‌شان نابود شده، نیروی هوایی از بین رفته و همه‌چیزشان از دست رفته است.»
+
+ترامپ افزود جمهوری اسلامی «در حالی مذاکره می‌کند که چیزی برایش باقی نمانده» و هشدار داد اگر توافق حاصل نشود، آمریکا ممکن است «برگردد و کار را تمام کند.»
+
+او همچنین گفت اقتصاد ایران «در حال سقوط آزاد» است و تهران به‌دلیل فشارهای سنگین، گزینه دیگری جز حرکت به‌سوی توافق ندارد.
+@VahidOOnLine
+
+📡 @VahidOnline
+</div>
+
+## IranIntlTV — post 339269
+
+<div align="center">
+  <img src="telegram/content/IranIntlTV_339269_1779899635.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+دونالد ترامپ، رییس‌جمهوری آمریکا، چهارشنبه در نشست کابینه گفت جمهوری اسلامی به‌شدت خواهان دستیابی به توافق است، اما آمریکا هنوز از آن راضی نیست.
+
+ترامپ پیش‌تر گفت تهران در ازای واگذاری و تحویل اورانیوم با غنای بالا، هیچ امتیاز یا کاهش تحریمی دریافت نخواهد کرد.
+https://iranintl.com/202605273857
+</div>
+
+## IranIntlTV — post 339268
+
+<div align="center">
+  <a href="https://t.me/IranintlTV/339268" target="_blank">📎 Download file</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🎧نسخه صوتی اخبار شبانگاهی | چهارشنبه ۶ خرداد
+@iranintlTV
+</div>
+
+## Shin_Persian — post 6261
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Open Source Intel ✓ @Osint613
+Wed, 27 May 2026 15:54:57 UTC
+
+Trump: No sanctions relief for Iran in exchange for giving up its highly enriched uranium stockpile. - PBS News
+
+فارسی
+
+ترامپ: هیچ لغو تحریمی برای ایران در ازای دست کشیدن از ذخایر اورانیوم با غنای بالای آن وجود نخواهند داشت. - PBS News
+
+𝕏 · @shin_persian
+</div>
+
+## Shin_Persian — post 6260
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Faytuks Network ✓ @FaytuksNetwork
+Wed, 27 May 2026 16:20:06 UTC
+
+Trump: "Iran is very much intent, they want very much to make a deal. So far they haven't gotten there ... we're not satisfied with it, but we will be. We will be either that or we'll have to just finish the job"
+
+فارسی
+
+ترامپ: «ایران بسیار مصمم است، آن‌ها خیلی می‌خواهند به توافق برسند. تا اینجا به آن نرسیده‌اند... ما از آن راضی نیستیم، اما خواهیم بود. یا آن‌گونه خواهد شد یا اینکه مجبور می‌شویم کار را تمام کنیم»
+
+𝕏 · @shin_persian
+</div>
+
+## FarsiVOA — post 218814
+
+<div align="center">
+  <a href="telegram/content/FarsiVOA_218814_1779899636.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+معصومه طاهرخانی، اقتصاددان، پیش‌بینی نمی‌کند که قیمت‌‌های افزایش‌یافته در آینده به سود خانواده‌های ایرانی کاهش پیدا کنند. از حسین قاضیان، جامعه‌شناس درباره راه‌های تاب‌آوری پرسیده‌ایم.
+</div>
+
+## Persian_Trend_Official — post 15140
+
+<div align="center">
+  <img src="telegram/content/Persian_Trend_Official_15140_1779899638.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🚨نت بلاکس: به نظر روند بازگشایی اینترنت ایران متوقف شده و در حال اعمال محدودیت‌های بیشتر برای جلوگیری از دانلود و استفاده از VPNها هستند!
+
+💢کماکان هیچ اخباری مبنی بر اتصال کامل اینترنت دیتاسنترها وجود ندارد که مشخصاً برای جلوگیری از گسترش تانل‌ها و VPNها می‌باشد.
+
+💢میزان اختلالات در شبکه از دیروز بسیار بیشتر شده است، بسیاری از سرویس‌های گوگل و کلودفلر بسته شده اند و حتی قابلیت استفاده از گوگل پلی و اپ استور نیز وجود ندارد.
+
+🫆:Tony
+
+📌 @persian_trend_official
+پرشین ترند | متفاوت‌ترین کانال نظامی
+</div>
+
+## Persian_Trend_Official — post 15139
+
+<div align="center">
+  <a href="telegram/content/Persian_Trend_Official_15139_1779899639.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🇷🇺رئیس روس اتم: روسیه تصمیم گرفته است که بازگشت کارکنان خود به نیروگاه هسته‌ای بوشهر در ایران را به تعویق بیندازد.
+
+
+👩‍💻@PhantomDirective
+
+
+🆔@persian_trend_official
+پرشین ترند | متفاوت‌ترین کانال نظامی
+</div>
+
+## Dirty_Kids — post 390335
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+دیشب بله برون بود؛
+همه از بله زدن بیرون:)))))))))))
+
+
+
+@Dirty_Kids 👻
+</div>
+
+## Dirty_Kids — post 390334
+
+<div align="center">
+  <a href="telegram/content/Dirty_Kids_390334_1779899639.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+خبر بسیار خوب اینکه کسمغزان شیعه‌سان رافضی در یک اقدام تحسین برانگیز ماکت جواد ظریف که سالها از کون ارباب‌های رافضیش و نئاندرتال‌های اطرافش می‌خورد رو آتیش زدن.
+
+
+@Dirty_Kids 👻
+</div>
+
+## Dirty_Kids — post 390333
+
+<div align="center">
+  <a href="https://t.me/Dirty_Kids/390333" target="_blank">📎 Download file</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+✅ اپلیکیشن اندروید سایت جهانی دربی بت
+
+💰اولین سایت جهانی با امکان شارژ و برداشت ریالی(کارت به کارت)
+
+🔗 برای ورود فیلترشکن روی کشور مناسب قرار دهید مانند فنلاند و المان و....
+
+😀Telegram Channel
+👇
+https://t.me/+bcynkEgSW2dlYTc0
+</div>
+
+## Dirty_Kids — post 390332
+
+<div align="center">
+  <img src="telegram/content/Dirty_Kids_390332_1779899642.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+😤دنبال یه سایت شرط بندی بین المللی بودی که به ایرانیا خدمات بده؟!
+⛔
+
+
+👍دربی بت همون انتخاب  100%
+
+
+💎ویژگی های سایت جهانی Derby Bet:
+
+⬅️امکان شارژ امن با کارت بانکی
+
+⬅️واریز اول دوبل شارژ می شوید(بونوس۱۰۰٪)
+
+⬅️پر اپشن ترین سایت فعال در ایران
+
+⬅️تسویه حساب کمتر از 5 دقیقه
+
+⬅️برگشت بخشی از باخت به صورت هفتگی
+
+
+🚨کد هدیه ثبت نام:GG007
+
+
+⚠️برای دانلود اپلکیشن کلیک کنید
+👉
+
+
+🔔کانال دربی بت :
+
+🪙https://t.me/+bcynkEgSW2dlYTc0
+</div>
+
+## Dirty_Kids — post 390331
+
+<div align="center">
+  <a href="telegram/content/Dirty_Kids_390331_1779899643.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+برا بار صدهزارم: ایران همه چیش نابود شده و دارن له له میزنن توافق کنن.
+
+
+@Dirty_Kids 👻
+</div>
+
+## Hranews — post 113199
+
+<div align="center">
+  <img src="telegram/content/Hranews_113199_1779899644.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+اعتراضات ۱۴۰۴؛ بلاتکلیفی نیما عربان، نوجوان بازداشتی در کانون اصلاح و تربیت اصفهان ادامه دارد
+
+
+❗️
+❗️
+❗️
+❗️
+❗️– نیما عربان، نوجوان ۱۷ ساله و یکی از بازداشت‌شدگان اعتراضات ۱۴۰۴ در نائین شهر، کماکان به صورت بلاتکلیف در کانون اصلاح و تربیت اصفهان نگهداری می‌شود. وی در پرونده‌ای مشترک با عباس اکبری فیض‌آبادی، از معترضان اعدام‌شده، مورد رسیدگی قضایی قرار گرفته است.
+
+به گزارش خبرگزاری هرانا، ارگان خبری مجموعه فعالان حقوق بشر در ایران، نیما عربان از بازداشت‌شدگان اعتراضات ۱۴۰۴ در بازداشت بسر می‌برد.
+
+بر اساس اطلاعات دریافتی هرانا، نیما عربان به همراه عباس اکبری فیض‌آبادی، از معترضان اعدام شده، در جریان اعتراضات دی‌ماه ۱۴۰۴در نائین شهر اصفهان، بازداشت شده است. وی هم اکنون بیش از چهار ماه است که در کانون اصلاح و تربیت اصفهان نگهداری می‌شود.
+
+#نیما_عربان
+
+ادامه مطلب
+
+↘️
+@hranews_bot تماس ✉️ - @Hranews کانال هرانا 🆑
+</div>
+
+## alonews — post 123100
+
+<div align="center">
+  <a href="telegram/content/alonews_123100_1779899645.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈 روبیو: دیپلماسی اولین گزینه ماست، اما گزینه‌های دیگری هم در مورد ایران وجود دارد
+
+
+🔴من معتقدم پیشرفت‌هایی در جهت دستیابی به توافق با ایران حاصل شده است
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 123099
+
+<div align="center">
+  <a href="telegram/content/alonews_123099_1779899646.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈ترامپ: ایران نمی‌تواند سلاح هسته‌ای داشته باشد و من به خاطر جهان جلوی آن را می‌گیرم.
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/03/06 19:52
 ---
 
