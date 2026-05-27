@@ -7,6 +7,132 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/03/07 02:33
+---
+
+## VahidOOnLine — post 242491
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_242491_1779923011.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️به گزارش خبرگزاری فارس، حوالی ساعت ۱:۳۰ بامداد، صدای سه انفجار در شرق شهر بندرعباس شنیده شد و هم‌زمان، سامانه‌های پدافند هوایی این شهر برای دقایقی فعال گردیدند. در حال حاضر محل دقیق و منشا اصلی این صداها مشخص نیست.
+‌🇸🇦 Indypersian
+
+🤖 @VahidOOnLine
+</div>
+
+## WithYashar — post 12756
+
+
+
+
+## WithYashar — post 12755
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+یا موسی
+</div>
+
+## FoxNewsTwitter — post 342329
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_342329_1779923012.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+Kathy Hochul attempted to dunk on President Trump over the Knicks — and ended up getting roasted by fans instead.
+
+The New York governor tried to quiz the president's support for the team when asked about him potentially attending an NBA Finals game.
+
+“I ask him to name the starting lineup from the 1993 championship team and see how he does,” Hochul said.
+
+There’s just one problem: the Knicks didn’t win a championship in 1993. Their last NBA title came in 1973.
+</div>
+
+## pm_afshaa — post 91685
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+گزارش ها از ترور در بندر عباس
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## pm_afshaa — post 91684
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+فارس:سه انفجار در بندرعباس عباس رخ داده و پدافند هم فعال شده
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## pm_afshaa — post 91683
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴3 انفجار در بندر عباس
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## mamlekate — post 103592
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+📞 الو بندرعباس رو زدن ۱:۳۳ پنج‌شنبه ۷ خرداد
+
+@mamlekate
+</div>
+
+## IranIntlTV — post 339318
+
+<div align="center">
+  <a href="https://t.me/IranintlTV/339318" target="_blank">📎 Download file</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🎧نسخه صوتی برنامه با کامبیز حسینی؛ بازگشت اینترنت و عبور مردم از روایت رسمی حکومت
+@iranintlTV
+</div>
+
+## FarsiVOA — post 218848
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⚡️کابینه پرزیدنت ترامپ روز چهارشنبه ۶ خرداد در کاخ سفید تشکیل جلسه داد. در بخش‌هایی از این جلسه موضوع «خشم حماسی» و مذاکره با رژیم ایران نیز مطرح شد. صدای آمریکا بخش‌هایی از این جلسه را به طور مستقیم و با ترجمه همزمان پژواک کیومرثی پخش کرد.
+@FarsiVOA
+</div>
+
+## IranianMinds — post 20912
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 رسانه آمریکایی: ایالات متحده یک عملیات دفاعی در بندرعباس ایران انجام داده و افزوده است که آمریکا برای حفاظت از منافع منطقه‌ای خود اقدام خواهد کرد و این موضوع تأثیری بر آتش‌بس ندارد. @IranianMinds
+</div>
+
+## IranianMinds — post 20911
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 رسانه آمریکایی:
+
+ایالات متحده یک عملیات دفاعی در بندرعباس ایران انجام داده و افزوده است که آمریکا برای حفاظت از منافع منطقه‌ای خود اقدام خواهد کرد و این موضوع تأثیری بر آتش‌بس ندارد.
+
+@IranianMinds
+</div>
+
+---
 📅 بروزرسانی: 1405/03/07 02:23
 ---
 
