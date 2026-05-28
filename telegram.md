@@ -7,6 +7,83 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/03/08 02:12
+---
+
+## VahidOOnLine — post 242671
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_242671_1780008152.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+جی‌دی ونس، معاون رییس‌جمهوری آمریکا، پنج‌شنبه به خبرنگاران گفت واشینگتن هنوز در مذاکرات با حکومت ایران «به آن نقطه نرسیده»، اما طرف‌ها به توافق نزدیک شده‌اند. او افزود ایالات متحده در موقعیتی قرار دارد که می‌تواند برنامه هسته‌ای تهران را به‌طور قابل توجهی عقب بیندازد.
+‌🏁 🇬🇧 IranintlTV
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 242670
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_242670_1780008153.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️یک مقام آمریکایی ادعای صداوسیمای جمهوری اسلامی درباره سرنگونی یک هواگرد آمریکا در استان بوشهر را رد کرد.
+به گزارش رویترز، این مقام آمریکایی که نخواست نامش فاش شود، گفت هیچ هواگرد آمریکایی در نزدیکی بوشهر سرنگون نشده است.
+رسانه‌های حکومتی جمهوری اسلامی بامداد جمعه به نقل از مسعود تنگستانی، فرماندار جم، گزارش داده بودند که یک هواگرد آمریکایی در آسمان این شهرستان هدف قرار گرفته است.
+‌🇸🇦 Indypersian
+
+🤖 @VahidOOnLine
+</div>
+
+## pm_afshaa — post 91801
+
+<div align="center">
+  <img src="telegram/content/pm_afshaa_91801_1780008154.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+علی کریمی از شاهزاده رضا پهلوی حمایت کرد
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## IranIntlTV — post 339483
+
+<div align="center">
+  <img src="telegram/content/IranIntlTV_339483_1780008155.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+جی‌دی ونس، معاون رییس‌جمهوری آمریکا، پنج‌شنبه به خبرنگاران گفت واشینگتن هنوز در مذاکرات با حکومت ایران «به آن نقطه نرسیده»، اما طرف‌ها به توافق نزدیک شده‌اند. او افزود ایالات متحده در موقعیتی قرار دارد که می‌تواند برنامه هسته‌ای تهران را به‌طور قابل توجهی عقب بیندازد.
+https://iranintl.com/202605282106
+</div>
+
+## IranIntlTV — post 339482
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_339482_1780008155.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+سی‌ان‌ان در تحلیلی به قلم یک مقام پیشین امنیت ملی آمریکا نوشت حتی در صورت دستیابی به توافق میان واشینگتن و تهران، چالش جمهوری اسلامی برای آمریکا پایان نخواهد یافت.
+
+به نوشته او، مشکل اصلی در ساختار ایدئولوژیک جمهوری اسلامی ریشه دارد.
+
+گزارش اردوان روزبه، خبرنگار ایران‌اینترنشنال
+@iranintltv
+</div>
+
+## IranianMinds — post 20976
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+اسرائیل شبو تبدیل به روز کرد تو غزه
+
+@IranianMinds
+</div>
+
+---
 📅 بروزرسانی: 1405/03/08 02:02
 ---
 
