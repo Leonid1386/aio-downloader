@@ -7,6 +7,52 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/03/07 04:03
+---
+
+## VahidOOnLine — post 242506
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️دونالد ترامپ، رئیس‌جمهوری ایالات متحده، در نشست کابینه در کاخ سفید گفت هیچ کشوری تنگه هرمز را کنترل نخواهد کرد و این آبراه، آب‌های بین‌المللی محسوب می‌شود.
+ترامپ گفت: «هیچ‌کس قرار نیست آن را کنترل کند. ما مراقب آن خواهیم بود، اما کسی کنترلش نخواهد کرد.» او افزود باز بودن تنگه هرمز برای همه، بخشی از مذاکرات جاری است.
+رئیس‌جمهوری آمریکا همچنین با اشاره به عمان گفت این کشور نیز «مانند دیگران رفتار خواهد کرد.»
+‌🇸🇦 Indypersian
+
+🤖 @VahidOOnLine
+</div>
+
+## Persian_Trend_Official — post 15154
+
+<div align="center">
+  <img src="telegram/content/Persian_Trend_Official_15154_1779928381.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+در همین حین یک پهپاد اسرائیلی خودرویی را در نزدیکی شهر عدلون در جنوب لبنان مورد هدف حمله خود قرار داد.
+
+📝 Amir
+
+📌 @persian_trend_official
+پرشین ترند | متفاوت‌ترین کانال نظامی
+</div>
+
+## Persian_Trend_Official — post 15153
+
+<div align="center">
+  <a href="telegram/content/Persian_Trend_Official_15153_1779928382.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+صداوسیما پس از تایید خبر حمله امریکا توسط رسانه های خبری متعدد: نشانه‌ایی از انفجار در بندر عباس دیده نشده است!
+
+صداوسیما می‌گوید برخی از مردم صدای این انفجار را شنیده اند(!) و هیچ یک از مقام‌های رسمی پیرو این موضوع هیچ اطلاعیه رسمی نداده اند.
+
+📝 Amir
+
+📌 @persian_trend_official
+پرشین ترند | متفاوت‌ترین کانال نظامی
+</div>
+
+---
 📅 بروزرسانی: 1405/03/07 03:53
 ---
 
