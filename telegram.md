@@ -7,6 +7,69 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/03/07 03:33
+---
+
+## WithYashar — post 12766
+
+
+
+
+## WithYashar — post 12765
+
+
+
+
+## WithYashar — post 12764
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+گزارشات تأیید نشده از ترور سردار علی عظمایی، جانشین سردار علیرضا تنگسیری، فرمانده نیروی دریایی سپاه. @withyashar
+</div>
+
+## VahidOnline — post 75761
+
+<div align="center">
+  <img src="telegram/content/VahidOnline_75761_1779926604.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+☄️ یک مقام رسمی می‌گوید ایالات متحده حملات جدیدی را علیه یک سایت نظامی ایران انجام داده است
+cbsnews
+یک مقام آمریکایی در گفت‌وگو با رویترز از حملات جدید آمریکا به یک سایت نظامی در ایران خبر داد و گفت ارتش آمریکا همچنین چندین پهپاد ایرانی را رهگیری و سرنگون کرده است. هنوز به جزییات این سایت نظامی و تعداد پهپادها اشاره‌ای نشده است.
+ساعتی پیش در پی شنیده شدن صدای ۳ انفجار در شرق بندرعباس، پدافند هوایی این شهر فعال شد.
+@VahidOOnLine
+
+📡 @VahidOnline
+</div>
+
+## Shin_Persian — post 6266
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Shin ✓ @hey_itsmyturn
+Wed, 27 May 2026 23:55:28 UTC
+
+It was USN again apparently
+
+فارسی
+
+ظاهراً باز هم کار نیروی دریایی ایالات متحده (USN) بود.
+
+𝕏 · @shin_persian
+</div>
+
+## IranianMinds — post 20919
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 رویترز :
+
+جمهوری اسلامی چن تا پهپاد هم شلیک کرده بود که ارتش آمریکا همشونو نابود کرد.
+
+@IranianMinds
+</div>
+
+---
 📅 بروزرسانی: 1405/03/07 03:23
 ---
 
