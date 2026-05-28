@@ -7,6 +7,358 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/03/07 22:07
+---
+
+## VahidOOnLine — post 242646
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_242646_1779993427.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+وزارت خارجه اسرائیل اعلام کرد تصمیم شرم‌آور و مضحک سازمان ملل برای گنجاندن نهادهای اسرائیلی در ضمیمه گزارش خشونت جنسی در درگیری‌ها، نشانه‌ای دیگر از ماهیت واقعی این سازمان است؛ نهادی سیاسی‌زده و فاسد که اصول بنیان‌گذاری خود را کنار گذاشته و به‌طور نظام‌مند اسرائیل را به‌عنوان هدف اصلی خود قرار داده است. این تصمیم نمونه‌ای دیگر از خصومت دیرینه و نهادینه‌شده سازمان ملل علیه اسرائیل است.
+
+در این بیانیه آمده تصمیم امروز باید در بستر واقعی خود درک شود: تلاشی برای ایجاد تقارن ساختگی میان اسرائیل و جنایات جنسی واقعی ارتکاب‌یافته از سوی حماس. این تنها انگیزه آن است.
+
+وزارت خارجه اسرائیل آنتونیو گوترش را مسئول این اقدام دانست و اعلام کرد او کشتار ۷ اکتبر را توضیح‌پذیر جلوه داده، نقش کارکنان سازمان ملل در آن جنایات را پنهان کرده و این سازمان را به پایین‌ترین نقطه خود رسانده است.
+
+اسرائیل اعلام کرد با توجه به نقض استانداردهای صداقت، سلامت و حرفه‌ای‌گری از سوی گوترش، تمام روابط خود با دفتر دبیرکل را قطع می‌کند و تا زمان تعیین دبیرکل جدید سازمان ملل منتظر خواهد ماند.
+‌🏁 🇬🇧 IranintlTV
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 242645
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🗣روایت شما از زندگی در آتش‌بس- پنجشنبه ۷ خرداد ۱۴۰۶
+
+🔹از این‌که اینترنت برگشته نباید خوشحال شد. حق‌مون رو ازمون گرفتن و قطره‌قطره دارن بهمون پس می‌دن. چیزی نیست که باعث شادی بشه.
+
+🔹من دانش‌آموز رشته کامپیوتر هستم و با یک سیستم قدیمی درس‌هام رو می‌گذرونم. یک ساله می‌خوام سیستم بخرم، اما هر روز گرون‌تر میشه. این همه پول مدرسه می‌دم، اما مجبورم برم کافی‌نت تا کارهام رو انجام بدم.
+
+🔹الیگودرز: در حالی که آخوندا عید قربان رو با شام مفصل جشن می‌گیرن، مردم حتی نون ساده هم نمی‌تونن بخرن.
+
+🔹از خرم‌آباد: همه‌چی روزبه‌روز داره سخت‌تر و بدتر از قبل میشه. موز کیلویی ۴۹۰ تومن شده.
+
+🔹خیلی وقت بود گوشت از سفره حذف شده بود. الان مرغ هم رفته، فقط تونستم مقداری پای مرغ بخرم. از بوشهر.
+
+🔹من یک کارگر نانوایی هستم. سهمیه آرد نانوایی‌ها رو کسر کردن و هیچ‌کس جوابگو نیست.
+
+🔹آخه در کشوری که حقوق قانون کار پانزده میلیون باشه و اجاره خونه هم پنج میلیون و گوشت کیلویی دو میلیون، چه‌جوری میشه زندگی کرد؟!
+
+🔹اینترنت رو به قولی وصل کردن و گند زدن با این وصل کردنشون. وضعیت الان بدتر از حتی جنگ شده. من دیگه روم نمی‌شه حتی فروش داشته باشم. فیلتری که می‌دادم ۴ هزار تومان، الان باید بدم ۵۰.
+
+🔹من ۳۰ میلیون حقوق می‌گیرم، کارم فروشندگیه. حدود ۹۰ درصد خرج من ناهار سر کار هست. هیچ چیز برای خودم نمی‌خرم غیر از خوراکی برای خواهر کوچکم. نمی‌دونم چکار کنم. کار کنم؟ درس بخونم؟ بیکار بمونم؟ زندگی خیلی سخته.
+
+🔹رفسنجان: مردم تو رو خدا امیدتون رو از دست ندید. رانندگان، بازاریان اعتصاب کنید. ما هم منتظر فراخوان شاهزاده هستیم تا برگردیم به خیابون و کار رو تموم کنیم.
+
+🔹از اسفندماه تعدیل نیرو شدم، با سابقه بیش از ۱۰ سال بیمه. برای بیمه بیکاری هم اقدام کردم. متأسفانه هنوز هیچ‌گونه وجهی دریافت نکردم. زندگی سخته، بچه کوچک داریم.
+
+🔹اصلاً نمی‌خوام سیاه‌نمایی کنم، ولی وضعیت جوریه که برای خریدن سیب‌زمینی و پیاز هم تردید می‌کنم. چیزی که اساساً در مورد خریدش نباید فکر کرد.
+
+🔹بیش از سه ماه به‌خاطر قطعی اینترنت دفترمون رو تعطیل کردیم، اما سر در برابر «پرو» فرود نیاوردیم. به امید روزهای روشن.
+‌🏁 🇬🇧 IranintlTV
+
+🤖 @VahidOOnLine
+</div>
+
+## FoxNewsTwitter — post 342359
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_342359_1779993428.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+NEW: Treasury Sec. Bessent weights in on the reported IRS settlement with President Trump, as well as the fund for Americans targeted by the federal government:
+
+"President Trump is a great American who has endured more than ten years of nonstop harassment and weaponization from the federal and state government actors."
+
+"No Americans should be targeted for political reasons, and every citizen deserves fair treatment, full protection of the law."
+</div>
+
+## FoxNewsTwitter — post 342358
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_342358_1779993431.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+BREAKING: Secretary Scott Bessent reveals the Treasury Department is actively preparing for a historic $250 bill featuring President Trump, pending proposed legislation from Congress that would allow a living person to appear on U.S. currency:
+
+"I have two mandates for U.S. currency, at present, no living person can be on U.S. currency, and the currency must say, ‘In God we trust.’”
+
+“So right now there is proposed legislation, in front of the House and in front of the Senate to change the first requirement so that a living person, Donald J. Trump, could be on the $250 bill.”
+
+“At Treasury we prepare things in advance. So we have prepared in advance that if the legislation is passed, but we will stick to the law." | @pdoocy
+</div>
+
+## FoxNewsTwitter — post 342357
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_342357_1779993434.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+Treasury Secretary Scott Bessent gets the White House press corps to crack up after telling them they can call him 'Doctor Bessent' after getting an honorary degree from the University of South Carolina:
+
+“I'm happy to ask the questions. I will mention the three weeks ago I got an honorary degree from the University of South Carolina.”
+
+“So if you really want to get a question, you can call me Doctor Bessent.”
+</div>
+
+## FoxNewsTwitter — post 342356
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_342356_1779993437.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+NOW: Treasury Sec. Scott Bessent fills in at the podium for today's White House press briefing and touts the successes coming from President Trump's tax cuts and economic agenda:
+
+"We had a historic tax filing season... The average refund this filing season is nearly $3,300 and 11% increase from last year. And importantly, very importantly, 62 million returns, 44% claimed at least one of the president's signature tax cuts."
+
+"And to remind everyone, every Democrat voted against those programs."
+</div>
+
+## pm_afshaa — post 91761
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴ان‌بی‌سی نیوز: آمریکا و جمهوری اسلامی سه روز پیش تو دوحه به توافق رسیدن، ولی فعلا اعلامش نمیکنن
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## IranIntlTV — post 339459
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_339459_1779993441.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+۲۴ با فرداد فرحزاد
+@iranintltv
+</div>
+
+## IranIntlTV — post 339458
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_339458_1779993442.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+۲۴ با فرداد فرحزاد
+@iranintltv
+</div>
+
+## IranIntlTV — post 339457
+
+<div align="center">
+  <img src="telegram/content/IranIntlTV_339457_1779993444.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+وزارت خارجه اسرائیل اعلام کرد تصمیم شرم‌آور و مضحک سازمان ملل برای گنجاندن نهادهای اسرائیلی در ضمیمه گزارش خشونت جنسی در درگیری‌ها، نشانه‌ای دیگر از ماهیت واقعی این سازمان است؛ نهادی سیاسی‌زده و فاسد که اصول بنیان‌گذاری خود را کنار گذاشته و به‌طور نظام‌مند اسرائیل را به‌عنوان هدف اصلی خود قرار داده است. این تصمیم نمونه‌ای دیگر از خصومت دیرینه و نهادینه‌شده سازمان ملل علیه اسرائیل است.
+
+در این بیانیه آمده تصمیم امروز باید در بستر واقعی خود درک شود: تلاشی برای ایجاد تقارن ساختگی میان اسرائیل و جنایات جنسی واقعی ارتکاب‌یافته از سوی حماس. این تنها انگیزه آن است.
+
+وزارت خارجه اسرائیل آنتونیو گوترش را مسئول این اقدام دانست و اعلام کرد او کشتار ۷ اکتبر را توضیح‌پذیر جلوه داده، نقش کارکنان سازمان ملل در آن جنایات را پنهان کرده و این سازمان را به پایین‌ترین نقطه خود رسانده است.
+
+اسرائیل اعلام کرد با توجه به نقض استانداردهای صداقت، سلامت و حرفه‌ای‌گری از سوی گوترش، تمام روابط خود با دفتر دبیرکل را قطع می‌کند و تا زمان تعیین دبیرکل جدید سازمان ملل منتظر خواهد ماند.
+https://iranintl.com/202605286441
+</div>
+
+## IranIntlTV — post 339456
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🗣روایت شما از زندگی در آتش‌بس- پنجشنبه ۷ خرداد ۱۴۰۶
+
+🔹از این‌که اینترنت برگشته نباید خوشحال شد. حق‌مون رو ازمون گرفتن و قطره‌قطره دارن بهمون پس می‌دن. چیزی نیست که باعث شادی بشه.
+
+🔹من دانش‌آموز رشته کامپیوتر هستم و با یک سیستم قدیمی درس‌هام رو می‌گذرونم. یک ساله می‌خوام سیستم بخرم، اما هر روز گرون‌تر میشه. این همه پول مدرسه می‌دم، اما مجبورم برم کافی‌نت تا کارهام رو انجام بدم.
+
+🔹الیگودرز: در حالی که آخوندا عید قربان رو با شام مفصل جشن می‌گیرن، مردم حتی نون ساده هم نمی‌تونن بخرن.
+
+🔹از خرم‌آباد: همه‌چی روزبه‌روز داره سخت‌تر و بدتر از قبل میشه. موز کیلویی ۴۹۰ تومن شده.
+
+🔹خیلی وقت بود گوشت از سفره حذف شده بود. الان مرغ هم رفته، فقط تونستم مقداری پای مرغ بخرم. از بوشهر.
+
+🔹من یک کارگر نانوایی هستم. سهمیه آرد نانوایی‌ها رو کسر کردن و هیچ‌کس جوابگو نیست.
+
+🔹آخه در کشوری که حقوق قانون کار پانزده میلیون باشه و اجاره خونه هم پنج میلیون و گوشت کیلویی دو میلیون، چه‌جوری میشه زندگی کرد؟!
+
+🔹اینترنت رو به قولی وصل کردن و گند زدن با این وصل کردنشون. وضعیت الان بدتر از حتی جنگ شده. من دیگه روم نمی‌شه حتی فروش داشته باشم. فیلتری که می‌دادم ۴ هزار تومان، الان باید بدم ۵۰.
+
+🔹من ۳۰ میلیون حقوق می‌گیرم، کارم فروشندگیه. حدود ۹۰ درصد خرج من ناهار سر کار هست. هیچ چیز برای خودم نمی‌خرم غیر از خوراکی برای خواهر کوچکم. نمی‌دونم چکار کنم. کار کنم؟ درس بخونم؟ بیکار بمونم؟ زندگی خیلی سخته.
+
+🔹رفسنجان: مردم تو رو خدا امیدتون رو از دست ندید. رانندگان، بازاریان اعتصاب کنید. ما هم منتظر فراخوان شاهزاده هستیم تا برگردیم به خیابون و کار رو تموم کنیم.
+
+🔹از اسفندماه تعدیل نیرو شدم، با سابقه بیش از ۱۰ سال بیمه. برای بیمه بیکاری هم اقدام کردم. متأسفانه هنوز هیچ‌گونه وجهی دریافت نکردم. زندگی سخته، بچه کوچک داریم.
+
+🔹اصلاً نمی‌خوام سیاه‌نمایی کنم، ولی وضعیت جوریه که برای خریدن سیب‌زمینی و پیاز هم تردید می‌کنم. چیزی که اساساً در مورد خریدش نباید فکر کرد.
+
+🔹بیش از سه ماه به‌خاطر قطعی اینترنت دفترمون رو تعطیل کردیم، اما سر در برابر «پرو» فرود نیاوردیم. به امید روزهای روشن.
+</div>
+
+## FarsiVOA — post 218908
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+با بالا گرفتن تنش‌ها میان جمهوری اسلامی و آمریکا و نگرانی درباره آینده تنگه هرمز، سهام شرکت‌های هواپیمایی مثل ایر فرانس و رایان‌ایر حدود ۲ درصد سقوط کرد.
+</div>
+
+## Persian_Trend_Official — post 15201
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+لایو ساعت 22:45 به وقت تهران شروع میشه
+</div>
+
+## alonews — post 123366
+
+<div align="center">
+  <a href="telegram/content/alonews_123366_1779993445.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+مدیریت حرفه‌ای سرمایه بدون نیاز به دانش معامله‌گری
+
+سرمایه شما در حساب شخصی خودتان باقی می‌ماند؛
+ما فقط با دسترسی محدود معاملاتی (Trading Permission) مدیریت معاملات را انجام می‌دهیم.
+
+بدون نیاز به دانش تخصصی، تحلیل بازار یا تجربه معامله‌گری
+می‌توانید از خدمات مدیریت سرمایه و کپی‌تریدینگ حرفه‌ای بهره‌مند شوید.
+
+✔ مدیریت ریسک حرفه‌ای
+✔ شفافیت کامل عملکرد
+✔ تمرکز بر رشد پایدار و کنترل سرمایه
+✔ بدون واریز مستقیم سرمایه به ما
+
+❎ضمنا میتوانید در کانال تلگرام از سیگنال های روزانه رایگان فارکس و همچنین آموزش تخصصی استفاده کنید❎
+
+👇
+👇
+👇
+https://t.me/+gm6piMRKtzE5Mjk0
+
+Investment Pulse Capital
+📍 Muscat, Oman
+📞 +968 93606848
+
+
+📱 اینستاگرام
+
+✈️ کانال تلگرام
+
+📞واتساپ
+</div>
+
+## alonews — post 123365
+
+<div align="center">
+  <a href="telegram/content/alonews_123365_1779993446.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈خبرنگار: ترامپ گفت که می‌تواند عمان را «بترکاند». آیا شما برنامه‌ای برای جنگ جدید با عمان دارید؟
+
+
+🔴بسنت، وزیر خزانه‌داری آمریکا: فکر می‌کنم ترامپ می‌خواست بر آزادی ناوبری در تنگه تأکید کند. سفیر عمان به من اطمینان داد که برنامه‌ای برای دریافت عوارض از تنگه وجود ندارد
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 123364
+
+<div align="center">
+  <a href="telegram/content/alonews_123364_1779993446.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈یک مقام آمریکایی به الجزیره: ما تأیید می‌کنیم که ایالات متحده و ایران به یک یادداشت تفاهم در مورد تنگه هرمز و مذاکرات هسته‌ای دست یافته‌اند
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 123363
+
+<div align="center">
+  <a href="telegram/content/alonews_123363_1779993446.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈رئیس کمیسیون امنیت ملی مجلس: تبادل پیام با آمریکا در جریان است
+
+
+🔴 اگر ترامپ می‌خواهد از بن‌بست خارج شود راهی جز تن دادن به اراده ملت ایران ندارد
+
+
+🔴 آمریکایی‌ها اول باید شروط پنج‌گانه ایران را بپذیرند. در این مرحله پذیرفتند اما تا الان اقدامی انجام نداده‌اند
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 123362
+
+<div align="center">
+  <a href="telegram/content/alonews_123362_1779993447.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⭕️
+⭕️این روزها بعضی از سلبریتی‌ها، چه از روی فشار نهادهای امنیتی و چه از روی منفعت‌طلبی و ترس، شروع کرده‌اند به تخریب انقلاب شیر و خورشید.
+
+
+🔴بعضی‌ها هم تازه رنگ عوض کرده‌اند و می‌خواهند با حاشیه‌سازی، مسیر اصلی را کمرنگ کنند.
+
+
+🔴بهترین پاسخ، درگیر شدن با حاشیه‌هایشان نیست؛ آنفالو کنید، محتوایشان را نشر ندهید و برایشان تریبون نسازید.
+
+
+👑مسیر درست روشن است: ادامه دادن، متحد ماندن و نپرداختن به بازی‌های فرسایشی.
+
+
+✅@AloNews
+</div>
+
+## alonews — post 123361
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👑
+</div>
+
+## alonews — post 123360
+
+<div align="center">
+  <a href="telegram/content/alonews_123360_1779993447.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈خاویر بلاس، ستون‌نویس بلومبرگ:
+با قضاوت بر اساس هشدارها و تهدیدهای مستقیم کاخ سفید و وزارت خزانه‌داری آمریکا، به نظر می‌رسد عمان واقعاً در حال بررسی پیوستن به ایران برای اجرای نوعی سیستم «عوارض» یا «هزینه عبور» در تنگه هرمز است. این تنها توضیح برای ۲۴ ساعت حمله از سوی واشنگتن است.
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 123359
+
+<div align="center">
+  <a href="telegram/content/alonews_123359_1779993448.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈دولت ترامپ تولد مارکو روبیو را با یک کیک بزرگ جشن می‌گیرد
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/03/07 21:53
 ---
 
