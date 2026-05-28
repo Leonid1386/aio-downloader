@@ -7,6 +7,99 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/03/08 00:32
+---
+
+## VahidOOnLine — post 242660
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_242660_1780002169.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️وزارت خزانه‌داری آمریکا اعلام کرد تحریم‌های جدیدی مرتبط با جمهوری اسلامی ایران اعمال شده است.
+بر اساس این اعلام، دفتر کنترل دارایی‌های خارجی وزارت خزانه‌داری آمریکا ۱۷ شرکت و نهاد، از جمله شرکت «سپهر انرژی جهان نمای پارس» و همچنین هشت کشتی با پرچم کشورهای مختلف را در چارچوب تلاش‌ها برای مختل کردن شبکه تجارت نفت و پتروشیمی جمهوری اسلامی ایران تحریم کرده است.
+وزارت خزانه‌داری آمریکا اعلام کرد این تحریم‌ها بخشی از تلاش‌ها برای قطع منابع درآمدی مرتبط با فروش نفت جمهوری اسلامی است. اسکات بسنت، وزیر خزانه‌داری آمریکا، تاکید کرد که این اقدامات بخشی از کمپین «خشم اقتصادی» برای قطع منابع مالی رژیم ایران و متوقف کردن فعالیت‌های بی‌ثبات‌کننده آن در منطقه است.
+‌🇸🇦 Indypersian
+
+🤖 @VahidOOnLine
+</div>
+
+## pm_afshaa — post 91797
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+رکنا : یه پسر 20 ساله دزفولی که دارای اختلالات روانی بود، پدر و مادر و برادر خودش رو سلاخی کرد و به قتل رسوند و در آخر خودکشی کرد
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## pm_afshaa — post 91796
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+با توجه به درخواست خیلیاتون کانفیگ اختصاصی برای فروش موجود کردیم
+💙
+
+اگر قصد تهیه دارید به آیدی پایین پیام بدید
+👇
+
+
+🔤 @Gliitch_Admin
+
+🔤 @Gliitch_Admin
+</div>
+
+## Persian_Trend_Official — post 15208
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+https://youtube.com/live/JrqroHI5pq8?feature=share
+</div>
+
+## Persian_Trend_Official — post 15207
+
+<div align="center">
+  <a href="telegram/content/Persian_Trend_Official_15207_1780002170.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+📌 @persian_trend_official
+پرشین ترند | متفاوت‌ترین کانال نظامی
+</div>
+
+## BBCPersian — post 282285
+
+<div align="center">
+  <img src="telegram/content/BBCPersian_282285_1780002171.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+‌ ‌ ‌ ‌
+شیخ تمیم بن حمد آل ثانی، امیر قطر، در تماسی تلفنی با دونالد ترامپ، رئیس جمهور آمریکا، در مورد تحولات منطقه‌ای گفتگو کرد.
+
+دفتر امیر قطر در گزارشی از این مکالمه تلفنی اعلام کرد که شیخ تمیم بر اهمیت اولویت دادن به راه‌حل‌های دیپلماتیک و گفت‌وگو بین همه طرف‌ها به امید جلوگیری از تنش‌ها و تشدید بیشتر در خاورمیانه تأکید کرد.
+
+در این بیانیه آمده است که ترامپ نیز به نوبه خود از نقش قطر در حمایت از تلاش‌های میانجیگری پاکستان بین واشنگتن و تهران قدردانی کرد و «از تلاش‌های قطر برای رفع اختلافات و ترویج کاهش تنش در منطقه» تمجید کرد.
+
+https://bbc.in/4vgvuEb
+📷Reuters
+@BBCPersian
+</div>
+
+## alonews — post 123396
+
+<div align="center">
+  <a href="telegram/content/alonews_123396_1780002172.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈یواش یواش برخی از اکانتهای امنیتی حذف جانشین سردار تنگسیری را دارن تایید میکنند در حمله دیشب آمریکا به بندرعباس
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/03/08 00:22
 ---
 
