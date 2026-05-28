@@ -211,7 +211,7 @@ jobs:
           fi
 
           # ── Base yt-dlp arguments (Deno + EJS for YouTube challenges) ──
-          YTDLP_BASE_ARGS="--js-runtimes deno --remote-components ejs:npm --no-progress"
+          YTDLP_BASE_ARGS="--js-runtimes deno --remote-components ejs:npm --no-progress --no-warnings"
 
           # Cookie helpers
           COOKIE_ARGS=""
@@ -262,6 +262,70 @@ jobs:
             fi
           }
 
+          # ── Extract clean JSON from potentially polluted output ──
+          sanitize_json_output() {
+            local infile="$1" outfile="$2"
+            # Grab the first line that starts with '{' (the actual JSON)
+            grep -m1 '^{' "$infile" > "$outfile" 2>/dev/null
+            if [ -s "$outfile" ]; then
+              return 0
+            else
+              return 1
+            fi
+          }
+
+          # ── Fallback format selection from -F table ──
+          # Usage: parse_format_table <type: v|a> <val: max|min|720|192|...> <formats_file>
+          # Outputs selected format ID and descriptive tag to stdout
+          parse_format_table() {
+            local type="$1" val="$2" table_file="$3"
+            # The table columns: ID EXT RESOLUTION FPS | FILESIZE TBR PROTO | VCODEC ACODEC
+            # We need to select based on type.
+            if [ "$type" = "a" ]; then
+              # Audio: look for rows with "audio only" or an ACODEC not "unknown". Use TBR as bitrate.
+              # Extract rows with a valid acodec (not "unknown") and maybe "audio only".
+              # For simplicity, we'll sort by TBR and pick the closest bitrate.
+              local bitrate="$val"
+              awk -v target="$bitrate" '
+                /^[a-zA-Z0-9_-]+[[:space:]]/ && NF>=2 {
+                  id=$1; tbr=0;
+                  # Find TBR column: after the "|" there are filesize, TBR, proto.
+                  # Simplistic: column after "|" is TBR if numeric.
+                  # This is fragile; we will extract the number from the TBR column if present.
+                  if (match($0, /[~ ]([0-9]+(\.[0-9]+)?)[kKMG]?[[:space:]]+[a-z0-9]+ /, arr)) {
+                    tbr_str=arr[1]; gsub(/[kKMG]/,"",tbr_str); tbr=tbr_str+0;
+                  }
+                  # Filter audio-only rows: either "audio only" in line or acodec!=unknown
+                  if ($0 ~ /audio only/ || ($NF != "unknown" && $(NF-1) == "unknown")) {
+                    diff = tbr - target;
+                    if (diff < 0) diff = -diff;
+                    print diff, tbr, id;
+                  }
+                }
+              ' "$table_file" | sort -n | head -1 | awk '{print $3, $2}'
+            else
+              # Video: look for combined formats (vcodec != "unknown" and acodec != "unknown")
+              # Use resolution (height). Extract widthxheight.
+              local height="$val"
+              awk -v target="$height" '
+                /^[a-zA-Z0-9_-]+[[:space:]]/ && NF>=2 {
+                  id=$1; res=$3; height=0;
+                  if (res ~ /^[0-9]+x[0-9]+$/) {
+                    split(res, a, "x"); height=a[2];
+                  } else if (res ~ /^[0-9]+p$/) {
+                    height=substr(res,1,length(res)-1);
+                  }
+                  # Only consider combined: vcodec and acodec not "unknown"
+                  if ($(NF-1) != "unknown" && $NF != "unknown") {
+                    diff = height - target;
+                    if (diff < 0) diff = -diff;
+                    print diff, height, id;
+                  }
+                }
+              ' "$table_file" | sort -n | head -1 | awk '{print $3, $2}'
+            fi
+          }
+
           # ── Helper to process one entry (returns 0 on success, 1 on failure) ──
           process_entry() {
             local link="$1" type="$2" val="$3" raw="$4" idx="$5"
@@ -279,41 +343,90 @@ jobs:
               }
             fi
 
-            # ── List formats (robust) ──
+            # ── List formats and save output for potential fallback ──
+            FORMAT_TABLE_FILE=$(mktemp)
             echo ""
             echo "→ Listing formats (may help debug):"
             if ! run_with_fallback "List formats (standard)" \
-              yt-dlp $COOKIE_ARGS "${IMPERSONATE_ARG_ARRAY[@]}" $YTDLP_BASE_ARGS -F "$link" 2>&1; then
+              yt-dlp $COOKIE_ARGS "${IMPERSONATE_ARG_ARRAY[@]}" $YTDLP_BASE_ARGS -F "$link" 2>&1 | tee "$FORMAT_TABLE_FILE"; then
               echo "⚠️ Standard format listing failed, retrying with --force-ipv4..."
               run_with_fallback "List formats (force IPv4)" \
-                yt-dlp $COOKIE_ARGS "${IMPERSONATE_ARG_ARRAY[@]}" $YTDLP_BASE_ARGS --force-ipv4 -F "$link" 2>&1 || true
+                yt-dlp $COOKIE_ARGS "${IMPERSONATE_ARG_ARRAY[@]}" $YTDLP_BASE_ARGS --force-ipv4 -F "$link" 2>&1 | tee "$FORMAT_TABLE_FILE" || true
             fi
             echo ""
 
             # ── Fetch metadata (JSON) with stderr isolation & fallback ──
             echo "→ Fetching metadata (JSON)..."
-            METADATA_FILE=$(mktemp)
+            METADATA_RAW=$(mktemp)
+            METADATA_CLEAN=$(mktemp)
+            JSON_OK=false
             if run_with_fallback "Metadata fetch (standard)" \
-              yt-dlp $COOKIE_ARGS "${IMPERSONATE_ARG_ARRAY[@]}" $YTDLP_BASE_ARGS -j "$link" > "$METADATA_FILE" 2> "metadata_errors_${idx}.log"; then
-              VIDEO_JSON=$(cat "$METADATA_FILE")
+              yt-dlp $COOKIE_ARGS "${IMPERSONATE_ARG_ARRAY[@]}" $YTDLP_BASE_ARGS -j "$link" > "$METADATA_RAW" 2> "metadata_errors_${idx}.log"; then
+              if sanitize_json_output "$METADATA_RAW" "$METADATA_CLEAN"; then
+                JSON_OK=true
+              else
+                echo "⚠️ Metadata output is not valid JSON"
+              fi
             else
               echo "⚠️ Standard metadata fetch failed, retrying with --force-ipv4..."
               if run_with_fallback "Metadata fetch (force IPv4)" \
-                yt-dlp $COOKIE_ARGS "${IMPERSONATE_ARG_ARRAY[@]}" $YTDLP_BASE_ARGS --force-ipv4 -j "$link" > "$METADATA_FILE" 2> "metadata_errors_${idx}.log"; then
-                VIDEO_JSON=$(cat "$METADATA_FILE")
+                yt-dlp $COOKIE_ARGS "${IMPERSONATE_ARG_ARRAY[@]}" $YTDLP_BASE_ARGS --force-ipv4 -j "$link" > "$METADATA_RAW" 2> "metadata_errors_${idx}.log"; then
+                if sanitize_json_output "$METADATA_RAW" "$METADATA_CLEAN"; then
+                  JSON_OK=true
+                else
+                  echo "⚠️ Metadata still not valid JSON after retry"
+                fi
+              fi
+            fi
+
+            if [ "$JSON_OK" = "true" ]; then
+              VIDEO_JSON=$(cat "$METADATA_CLEAN")
+              rm -f "$METADATA_RAW" "$METADATA_CLEAN" "metadata_errors_${idx}.log"
+            else
+              echo "⚠️ JSON metadata unavailable – falling back to format table parsing"
+              rm -f "$METADATA_RAW" "$METADATA_CLEAN" "metadata_errors_${idx}.log"
+              # Try to select a format from the -F table
+              if [ -s "$FORMAT_TABLE_FILE" ]; then
+                selected=$(parse_format_table "$type" "$val" "$FORMAT_TABLE_FILE")
+                if [ -n "$selected" ]; then
+                  FORMAT_ID=$(echo "$selected" | awk '{print $1}')
+                  desc_tag=$(echo "$selected" | awk '{print $2}')
+                  echo "→ Fallback selected format: $FORMAT_ID (height/bitrate ~${desc_tag})"
+                  if [ "$type" = "a" ]; then
+                    suffix="${desc_tag}kbps"
+                  else
+                    suffix="${desc_tag}p"
+                  fi
+                  if run_with_fallback "Fallback download $link ($suffix)" \
+                    yt-dlp $COOKIE_ARGS "${IMPERSONATE_ARG_ARRAY[@]}" $YTDLP_BASE_ARGS -f "$FORMAT_ID" \
+                      -o "$OUTPUT_FOLDER/%(title)s-${suffix}.%(ext)s" "$link"; then
+                    echo "✅ Fallback download succeeded"
+                    rm -f "$FORMAT_TABLE_FILE"
+                    return 0
+                  else
+                    echo "❌ Fallback download failed"
+                    rm -f "$FORMAT_TABLE_FILE"
+                    return 1
+                  fi
+                else
+                  echo "❌ Could not determine a format from the table"
+                  rm -f "$FORMAT_TABLE_FILE"
+                  return 1
+                fi
               else
-                echo "❌ Metadata fetch failed after retries"
-                rm -f "$METADATA_FILE" "metadata_errors_${idx}.log"
+                echo "❌ No format table available – cannot proceed"
+                rm -f "$FORMAT_TABLE_FILE"
                 return 1
               fi
             fi
-            rm -f "$METADATA_FILE" "metadata_errors_${idx}.log"
 
+            # ── Normal JSON-based selection (original logic) ──
             if [ "$type" = "a" ]; then
               # ── AUDIO ──
               AUDIO_FORMATS=$(echo "$VIDEO_JSON" | jq '[.formats[] | select(.vcodec == "none" and .acodec != "none")]')
               if [ "$(echo "$AUDIO_FORMATS" | jq length)" -eq 0 ]; then
                 echo "❌ No audio-only formats found"
+                rm -f "$FORMAT_TABLE_FILE"
                 return 1
               fi
               echo "→ Found $(echo "$AUDIO_FORMATS" | jq length) audio-only formats."
@@ -332,6 +445,7 @@ jobs:
                   BITRATES=$(echo "$AUDIO_FORMATS" | jq '[.[].abr // .tbr | select(. != null)] | unique | sort')
                   if [ "$(echo "$BITRATES" | jq length)" -eq 0 ]; then
                     echo "❌ No valid bitrate info"
+                    rm -f "$FORMAT_TABLE_FILE"
                     return 1
                   fi
                   CHOSEN=$(echo "$BITRATES" | jq --argjson b "$BITRATE" \
@@ -345,9 +459,11 @@ jobs:
                 yt-dlp $COOKIE_ARGS "${IMPERSONATE_ARG_ARRAY[@]}" $YTDLP_BASE_ARGS -f "$FORMAT_ID" \
                   -o "$OUTPUT_FOLDER/%(title)s-${CHOSEN}kbps.%(ext)s" "$link"; then
                 echo "✅ Audio download succeeded"
+                rm -f "$FORMAT_TABLE_FILE"
                 return 0
               else
                 echo "❌ Audio download failed"
+                rm -f "$FORMAT_TABLE_FILE"
                 return 1
               fi
             else
@@ -358,8 +474,10 @@ jobs:
                 if run_with_fallback "Fallback bestvideo+bestaudio for $link" \
                   yt-dlp $COOKIE_ARGS "${IMPERSONATE_ARG_ARRAY[@]}" $YTDLP_BASE_ARGS -f "bestvideo+bestaudio/best" \
                     -o "$OUTPUT_FOLDER/%(title)s.%(ext)s" "$link"; then
+                  rm -f "$FORMAT_TABLE_FILE"
                   return 0
                 else
+                  rm -f "$FORMAT_TABLE_FILE"
                   return 1
                 fi
               fi
@@ -397,8 +515,10 @@ jobs:
                     if run_with_fallback "Fallback best for $link" \
                       yt-dlp $COOKIE_ARGS "${IMPERSONATE_ARG_ARRAY[@]}" $YTDLP_BASE_ARGS -f "best" \
                         -o "$OUTPUT_FOLDER/%(title)s.%(ext)s" "$link"; then
+                      rm -f "$FORMAT_TABLE_FILE"
                       return 0
                     else
+                      rm -f "$FORMAT_TABLE_FILE"
                       return 1
                     fi
                   fi
@@ -414,16 +534,20 @@ jobs:
                 if run_with_fallback "Download video $link" \
                   yt-dlp $COOKIE_ARGS "${IMPERSONATE_ARG_ARRAY[@]}" $YTDLP_BASE_ARGS -f "$FORMAT_ID" \
                     -o "$OUTPUT_FOLDER/%(title)s.%(ext)s" "$link"; then
+                  rm -f "$FORMAT_TABLE_FILE"
                   return 0
                 else
+                  rm -f "$FORMAT_TABLE_FILE"
                   return 1
                 fi
               else
                 if run_with_fallback "Download video $link ($CHOSEN p)" \
                   yt-dlp $COOKIE_ARGS "${IMPERSONATE_ARG_ARRAY[@]}" $YTDLP_BASE_ARGS -f "$FORMAT_ID" \
                     -o "$OUTPUT_FOLDER/%(title)s-${CHOSEN}p.%(ext)s" "$link"; then
+                  rm -f "$FORMAT_TABLE_FILE"
                   return 0
                 else
+                  rm -f "$FORMAT_TABLE_FILE"
                   return 1
                 fi
               fi
@@ -442,7 +566,6 @@ jobs:
             type=""
             val=""
             if [ "$raw" = "false" ]; then
-              # Extract type & val from args
               args_array=()
               while IFS= read -r arg; do
                 args_array+=("$arg")
