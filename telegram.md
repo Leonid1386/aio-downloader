@@ -7,6 +7,252 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/03/08 19:03
+---
+
+## VahidOOnLine — post 242780
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_242780_1780068785.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️ دونالد ترامپ، رئیس‌جمهوری ایالات متحده روز جمعه هشتم خرداد، با انتشار پیامی در شبکه اجتماعی تروث‌سوشال، ادعاها درباره آزاد شدن بخشی از دارایی‌های مسدودشده جمهوری اسلامی را رد کرد و نوشت: «تا اطلاع ثانوی هیچ پولی مبادله نخواهد شد.»
+
+ترامپ در این پیام تاکید کرد که تهران باید فورا تنگه هرمز را باز کند و هیچ‌گونه عوارضی برای تردد کشتی‌ها در نظر نگیرد. ترامپ همچنین با اشاره به فعالیت‌های مین‌روبی در این آبراه راهبردی، تاکید کرد که جمهوری اسلامی باید باقی‌مانده مین‌های دریایی را پاکسازی کند.
+
+ترامپ اعلام کرد که امروز جلسه‌ای در اتاق وضعیت کاخ سفید تشکیل می‌شود و او «تصمیم نهایی» را درباره توافق احتمالی با تهران یا از سر گیری جنگ، اتخاذ خواهد کرد.
+‌🇸🇦 Indypersian
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 242779
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️مصطفی خوش‌چشم، کارشناس صداوسیما، در گفتگویی با اشاره به مباحث مطرح‌شده درباره دکترین هسته‌ای ایران گفت موضوع ساخت سلاح هسته‌ای علاوه بر جنبه سیاسی، دارای ابعاد فقهی است و تصمیم‌گیری درباره آن در نهایت بر عهده رهبر جمهوری اسلامی خواهد بود.
+او با تأکید بر اینکه استفاده از سلاح‌های کشتار جمعی از نظر فقهی «حرام» دانسته شده، افزود برخی دیدگاه‌ها به امکان بررسی ساخت سلاح برای «بازدارندگی» یا حتی سلاح‌های تاکتیکی اشاره می‌کنند که نیازمند بررسی‌های دقیق فقهی است.
+این کارشناس همچنین با اشاره به تحولات جنگ‌های مدرن، گفت امروزه ابزارهایی مانند جنگ سایبری، بیولوژیک و میکروبی می‌توانند بدون پذیرش مستقیم مسئولیت، خسارات گسترده‌ای ایجاد کنند و حتی جایگزین روش‌های سنتی مانند سلاح هسته‌ای شوند.
+خوش‌چشم در ادامه تأکید کرد در شرایط کنونی، کشورها علاوه بر توان نظامی، باید به ظرفیت‌های نوین در حوزه جنگ‌های سایبری و فناوری‌های پیشرفته نیز توجه ویژه داشته باشند.
+‌🇸🇦 Indypersian
+
+🤖 @VahidOOnLine
+</div>
+
+## WithYashar — post 12867
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+اتاق جنگ با یاشار : یا موسئ ادرکنی
+@withyashar
+معنی ادرکنی : مرا دریاب و به فریادم برس
+</div>
+
+## pm_afshaa — post 91832
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+وقتشه شاهزاده سکوتو بشکنه فراخوان بده وگرنه هممون بگا میریم این حرومزاده های مذهبیه نازی بمونن
+</div>
+
+## pm_afshaa — post 91831
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ترامپ: محاصره دریایی ایران برداشته شد 
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom 
+😁 @Pm_Afshaa
+</div>
+
+## pm_afshaa — post 91830
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ترامپ: محاصره دریایی ایران برداشته شد 
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom 
+😁 @Pm_Afshaa
+</div>
+
+## pm_afshaa — post 91829
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206NXlaTGVmdzhOdHF3LzU4aXJUVzJPcE1zTnV5SmpSNjFCdVJlMmdDb3hqbz06ZG9WL2M3eEEzc28rZjJZalJrMkFKVyt1bHFmNkJQd2hGVWxKQmRLVGFsVT0=@s.api50951.ir:443#PMTV%20NEWS%20%F0%9F%A6%81%E2%98%80%EF%B8%8F
+
+نپسترنت پر سرعت مخصوص اینستا و یوتیوب
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## pm_afshaa — post 91828
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ترامپ: محاصره دریایی ایران برداشته شد
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## pm_afshaa — post 91827
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+https://t.me/proxy?server=87.248.129.13&port=15&secret=ee1603010200010001fc030386e24c3add63646e2e79656b74616e65742e636f6d
+
+پروکسی سرعت بالا مخصوص دانلود
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## IranIntlTV — post 339603
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_339603_1780068785.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+پلیس ضدتروریسم بریتانیا اعلام کرد یک مرد ۴۶ ساله یونانی به اتهام همکاری با دستگاه اطلاعاتی جمهوری اسلامی و تلاش برای هدف قرار دادن یکی از خبرنگاران ایران‌اینترنشنال در لندن بازداشت شده است.
+گفت‌وگو با جمشید برزگر، روزنامه‌نگار و تحلیل‌گر سیاسی
+@iranintltv
+</div>
+
+## IranIntlTV — post 339602
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_339602_1780068787.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+پوریا زراعتی، مجری ایران اینترنشنال، ۱۰ فروردین ۱۴۰۳ مقابل خانه‌اش هدف حمله با سلاح سرد قرار گرفت؛ حمله‌ای که دادستان‌ها گفته‌اند ضاربان اجیرشده از سوی جمهوری اسلامی انجام داده‌اند. این ویدیو بر اساس شواهد و مدارک ارائه‌شده در دادگاه دو تن از متهمان، یعنی ناندیتو بادیا (۲۱ ساله) و جورج استانا (۲۵ ساله)، بازخوانی رویدادهای آن روز است. متهمان اتهامات وارد شده را رد کرده‌اند.
+@iranintltv
+</div>
+
+## FarsiVOA — post 218989
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+آزاده مختاری، خبرنگار، با انتشار ویدیویی از جوشش چشمه‌ها در حاشیه دریاچه ارومیه نوشت این پدیده همزمان با ثبت بالاترین تراز دریاچه در یک سال اخیر رخ داده است.
+
+او با اشاره به اینکه این تصاویر امیدوارکننده هستند، تاکید کرد دریاچه ارومیه همچنان تا رسیدن به تراز هدف زیست‌محیطی فاصله قابل توجهی دارد.
+
+@FarsiVOA
+</div>
+
+## DW_Farsi — post 125288
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔶 صدور حکم ۱۵ سال زندان برای توطئه حمله به کنسرت تیلور سوئیفت
+
+دادگاه ایالتی وینر نوی‌اشتات متهم اصلی پرونده طرح حمله به کنسرت تیلور سوئیفت در وین را گناهکار شناخت و به ۱۵ سال زندان محکوم کرد. این دادگاه او را در بیش از ۱۲ مورد اتهامی، که بیشتر آن‌ها با تروریسم ارتباط داشت، مجرم دانست. یکی دیگر از متهمان این پرونده نیز به ۱۲ سال زندان محکوم شد.
+
+به گزارش خبرگزاری آلمان، منشأ این پرونده به اوت ۲۰۲۴ بازمی‌گردد؛ زمانی که بران آ.، شهروند اتریشی با ریشه‌های مقدونیه شمالی، به گفته دادستانی قصد داشت به جمعیت حاضر در برابر ورزشگاه ارنست هاپل حمله کند و سپس خودکشی کند.
+
+او برای این منظور، بر اساس آموزش‌های اینترنتی، مقدار کمی از منفجره تهیه کرده بود و تلاش داشت سلاح‌هایی مانند مسلسل و نارنجک دستی خریداری کند.
+@dw_farsi
+</div>
+
+## DW_Farsi — post 125287
+
+<div align="center">
+  <img src="telegram/content/DW_Farsi_125287_1780068788.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔶 دیدار علی باقری با مقام‌های برزیل و مصر در مسکو
+
+علی باقری، معاون سیاست خارجی و امنیت بین‌الملل شورای عالی امنیت ملی ایران در سفر به پایتخت روسیه در دیدارهای جداگانه‌‌ای با مشاور سیاست خارجی رئیس‌جمهور برزیل و دبیرکل شورای امنیت ملی مصر گفت‌وگو کرد.
+
+به گزارش رسانه‌های ایران، باقری در دیدار با سلسو آموریم، مقام یادشده برزیل که در حاشیه چهاردهمین نشست بین‌المللی مقام‌های بلندپایه امنیتی در مسکو برگزار شد، درباره آخرین تحولات منطقه‌ای و بین‌المللی تبادل نظر کرد.
+
+وضعیت غرب آسیا و توسعه همکاری‌های دوجانبه نیز از دیگر موضوعات مطرح‌شده بود.
+
+معاون دبیر شورای عالی امنیت ملی ایران همچنین با یوسف علا‌ء‌الدین، دبیرکل شورای امنیت ملی مصر دیدار و گفت‌وگو کرد.
+
+دو طرف در این دیدار درباره آخرین تحولات منطقه‌ای و بین‌المللی، وضعیت غرب آسیا و چگونگی کمک به تحکیم صلح و ثبات در حوزه پیرامونی تبادل نظر کردند.
+
+به نقل از ایسنا، چهاردهمین کنفرانس بین‌المللی مقامات بلندپایه امنیتی در مسکو از سه‌شنبه تا پنج‌شنبه پنجم تا هفتم خرداد برگزار شد و باقری علاوه بر گفت‌وگو با این مقام‌ها در نشست اصلی نیز شرکت و سخنرانی کرد.
+@dw_farsi
+</div>
+
+## IranianMinds — post 21023
+
+<div align="center">
+  <img src="telegram/content/IranianMinds_21023_1780068789.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+بعد حرفای ترامپ نفت سقوط آزاد کرد.
+
+@IranianMinds
+</div>
+
+## BBCPersian — post 282343
+
+<div align="center">
+  <a href="telegram/content/BBCPersian_282343_1780068790.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+یک موشک «نیو گلن» متعلق به شرکت بلو اوریجین، شامگاه پنج‌شنبه ۷ خرداد، روی سکوی پرتابی در کیپ کاناورال در ایالت فلوریدای آمریکا منفجر شد.
+ 
+این شرکت فناوری فضایی که در سال ۲۰۰۰ توسط جف بزوس، میلیاردر و بنیان‌گذار آمازون تأسیس شده است، اعلام کرد که این حادثه هیچ‌گونه مصدومیتی نداشته است.
+ 
+به گفته مسئولان شرکت، این انفجار در جریان یک ارزیابی پیش از پرواز، موسوم به «آزمایش هات‌فایر» رخ داد و این حادثه به‌عنوان یک «ناهنجاری» توصیف شد.
+
+@BBCPersian
+</div>
+
+## alonews — post 123524
+
+<div align="center">
+  <a href="telegram/content/alonews_123524_1780068791.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈فیلد مارشال محسن رضایی: محاصره دریایی را یا با مذاکره یا با اقدام مستقیم می‌شکنیم؛ اگر درگیری ادامه پیدا کند، بعد سومی از قدرت را آشکار می‌کنیم. 
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 123523
+
+<div align="center">
+  <a href="telegram/content/alonews_123523_1780068791.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈تتر ۳۰۰۰ تومان ریخت
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 123522
+
+<div align="center">
+  <a href="telegram/content/alonews_123522_1780068791.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈ناتو: اوایل صبح امروز، یک ساختمان آپارتمانی در رومانی توسط یک پهپاد روسی هدف قرار گرفت 
+🔴ما بی‌مبالاتی روسیه را محکوم می‌کنیم 
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 123521
+
+<div align="center">
+  <a href="telegram/content/alonews_123521_1780068791.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈قیمت نفت برنت هم اکنون
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/03/08 18:53
 ---
 
