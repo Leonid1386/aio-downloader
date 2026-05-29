@@ -7,6 +7,229 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/03/08 18:33
+---
+
+## WithYashar — post 12862
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ترامپ در تروث : «ایران باید موافقت کند که هرگز صاحب سلاح یا بمب هسته‌ای نخواهد شد. تنگه هرمز باید فوراً باز شود؛ بدون هیچ عوارض یا هزینه‌ای، برای عبور آزادانه کشتی‌ها در هر دو جهت. تمام مین‌های دریایی (بمب‌ها)، اگر وجود داشته باشند، باید از بین بروند. ما…
+</div>
+
+## WithYashar — post 12861
+
+<div align="center">
+  <img src="telegram/content/WithYashar_12861_1780067024.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ترامپ در تروث : «ایران باید موافقت کند که هرگز صاحب سلاح یا بمب هسته‌ای نخواهد شد. تنگه هرمز باید فوراً باز شود؛ بدون هیچ عوارض یا هزینه‌ای، برای عبور آزادانه کشتی‌ها در هر دو جهت.
+
+تمام مین‌های دریایی (بمب‌ها)، اگر وجود داشته باشند، باید از بین بروند. ما با مین‌روب‌های قدرتمند زیرآبی خود، تعداد زیادی از این مین‌ها را از طریق انفجار نابود کرده‌ایم. ایران نیز فوراً مین‌های باقی‌مانده را پاکسازی یا منفجر خواهد کرد؛ که تعدادشان زیاد نخواهد بود.
+
+کشتی‌هایی که به‌دلیل محاصره دریایی فوق‌العاده و بی‌سابقه ما در تنگه گرفتار شده بودند محاصره‌ای که اکنون برداشته خواهد شد می‌توانند روند «بازگشت به خانه» را آغاز کنند! از طرف من، رئیس‌جمهور محبوبتان، به همسران، شوهران، پدر و مادرها و خانواده‌هایتان سلام برسانید!
+@withyashar
+مواد غنی‌شده‌ای که گاهی از آن با عنوان «غبار هسته‌ای» یاد می‌شود و در اعماق زمین، زیر کوه‌هایی که عملاً در اثر حمله قدرتمند بمب‌افکن‌های B-2 ما در ۱۱ ماه پیش فروریخته‌اند، دفن شده است، توسط ایالات متحده بیرون کشیده خواهد شد کشوری که طبق توافق، همراه با چین تنها کشوری است که توانایی فنی و مکانیکی انجام چنین کاری را دارد و این کار در هماهنگی کامل با جمهوری اسلامی ایران و همچنین آژانس بین‌المللی انرژی اتمی انجام شده و سپس آن مواد نابود خواهند شد.
+@withyashar
+تا اطلاع ثانوی هیچ پولی رد و بدل نخواهد شد. درباره موضوعات دیگری که اهمیت بسیار کمتری دارند نیز توافق حاصل شده است.
+اکنون به اتاق وضعیت می‌روم تا تصمیم نهایی را اتخاذ کنم.
+
+از توجه شما به این موضوع سپاسگزارم!
+@withyashar
+</div>
+
+## mwarmonitor — post 9888
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 دونالد ترامپ:
+
+​«ایران باید موافقت کند که هرگز سلاح یا بمب هسته‌ای نخواهد داشت. تنگه هرمز باید فوراً، بدون هیچ‌گونه عوارض (حق عبور)، برای تردد نامحدود کشتیرانی در هر دو جهت باز شود. تمام مین‌های دریایی (بمب‌ها)، در صورت وجود، نابود خواهند شد (ما تعداد زیادی از این مین‌ها را از طریق انفجار، با مین‌روب‌های زیردریایی فوق‌العاده خود پاکسازی کرده‌ایم. ایران کار حذف و/یا انفجار فوری هرگونه مین باقی‌مانده را که تعدادشان زیاد نخواهد بود، کامل خواهد کرد!). کشتیرانی‌هایی که به دلیل محاصره دریایی شگفت‌انگیز و بی‌سابقه ما در تنگه گرفتار شده بودند و این محاصره اکنون برداشته خواهد شد، می‌توانند فرآیند "بازگشت به خانه" را آغاز کنند! از طرف من، رئیس‌جمهور محبوبتان، به همسران، شوهران، والدین و خانواده‌های خود سلام برسانید!
+​مواد غنی‌شده که گاهی اوقات از آن‌ها به عنوان "گرد و غبار هسته‌ای" یاد می‌شود و در اعماق زمین زیر کوه‌های عملاً فروریخته قرار دارند—که ناشی از حمله ۱۱ ماه پیش بمب‌افکن قدرتمند B2 ما بوده و روی آن جا خوش کرده است—توسط ایالات متحده (که توافق شده تنها کشوری است که در کنار چین توانایی مکانیکی انجام این کار را دارد!)، با هماهنگی و همکاری نزدیک با جمهوری اسلامی ایران، به علاوه آژانس بین‌المللی انرژی اتمی، از زیر خاک بیرون آورده و نابود خواهد شد.
+​تا اطلاع ثانوی هیچ پولی رد و بدل نخواهد شد. در مورد موارد دیگر که از اهمیت بسیار کمتری برخوردارند، توافق شده است. من هم‌اکنون در "اتاق وضعیت" (Situation Room) جلسه خواهم داشت تا تصمیم نهایی را اتخاذ کنم. از توجه شما به این موضوع سپاسگزارم!
+
+رئیس‌جمهور دونالد جی. ترامپ»
+
+
+@mwarmonitor
+</div>
+
+## VahidOnline — post 75789
+
+<div align="center">
+  <img src="telegram/content/VahidOnline_75789_1780067025.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+☄️ پست ترامپ، ترجمه ماشین:
+ایران باید بپذیرد که هرگز سلاح یا بمب هسته‌ای نخواهد داشت.
+
+تنگه هرمز باید فوراً، بدون عوارض، برای عبور و مرور آزادانه کشتی‌ها در هر دو جهت باز شود. همه مین‌های دریایی، اگر وجود داشته باشند، برچیده خواهند شد؛ ما با مین‌روب‌های زیرآبی فوق‌العاده خود، شمار زیادی از این مین‌ها را از طریق انفجار از بین برده‌ایم. ایران نیز باید فوراً هر مین باقی‌مانده‌ای را، که تعدادشان زیاد نخواهد بود، جمع‌آوری یا منفجر کند.
+
+کشتی‌هایی که به‌دلیل محاصره دریایی شگفت‌انگیز و بی‌سابقه ما در تنگه گرفتار شده بودند ــ ❗️ محاصره‌ای که اکنون لغو خواهد شد ــ می‌توانند روند «بازگشت به خانه» را آغاز کنند! از طرف من، رئیس‌جمهور محبوبتان، به همسران، شوهران، پدران، مادران و خانواده‌هایتان سلام برسانید!
+
+مواد غنی‌شده، که گاهی از آن با عنوان «غبار هسته‌ای» یاد می‌شود و در اعماق زمین دفن شده؛ در حالی که کوه‌هایی که عملاً بر اثر حمله قدرتمند بمب‌افکن‌های B-2 ما در ۱۱ ماه پیش فرو ریخته‌اند روی آن قرار دارند، ❗️توسط ایالات متحده از زیر خاک بیرون آورده خواهد شد؛ کشوری که، طبق توافق، تنها کشور در کنار چین است که توان مکانیکی انجام چنین کاری را دارد.
+این کار با هماهنگی و همکاری نزدیک با جمهوری اسلامی ایران و همچنین آژانس بین‌المللی انرژی اتمی انجام خواهد شد و سپس این مواد نابود خواهد شد.
+
+❗️ تا اطلاع ثانوی، هیچ پولی رد و بدل نخواهد شد.
+
+درباره موارد دیگری که اهمیت بسیار کمتری دارند نیز توافق حاصل شده است.
+❗️اکنون در اتاق وضعیت جلسه خواهم داشت تا تصمیم نهایی را بگیرم.
+
+از توجه شما به این موضوع سپاسگزارم!
+
+رئیس‌جمهور دونالد جی. ترامپ
+realDonaldTrump
+
+📡 @VahidOnline
+</div>
+
+## IranIntlTV — post 339597
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_339597_1780067025.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+مصطفی خوش‌چشم، کارشناس صداوسیمای جمهوری اسلامی، با اشاره به حملات میکروبی و بیولوژیک گفت که دوران بمب اتم سپری شده و اکنون می‌توان حملاتی انجام داد بدون آنکه مسئولیت آن پذیرفته شود. او همچنین با اشاره به احتمال رسیدن شرایط به مرحله رویارویی هسته‌ای، بر ضرورت اقدامات پیشگیرانه تاکید کرد.
+@iranintltv
+</div>
+
+## Shin_Persian — post 6297
+
+<div align="center">
+  <img src="telegram/content/Shin_Persian_6297_1780067028.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Shin ✓ @hey_itsmyturn Fri, 29 May 2026 14:55:22 UTC President Trump @POTUS: "Iran must agree that they will never have a Nuclear Weapon or Bomb. The Hormuz Strait must be immediately open, no tolls, for unrestricted shipping traffic, in both directions.…
+</div>
+
+## Shin_Persian — post 6296
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Shin ✓ @hey_itsmyturn
+Fri, 29 May 2026 14:55:22 UTC
+
+President Trump @POTUS:
+"Iran must agree that they will never have a Nuclear Weapon or Bomb. The Hormuz Strait must be immediately open, no tolls, for unrestricted shipping traffic, in both directions. All water mines (bombs), if any, will be terminated (we have removed, through detonation, numerous such mines with our great underwater mine sweepers. Iran will complete the immediate removal and/or detonation of any mines that are left, which will not be many!). Ships caught in the Strait due to our amazing and unprecedented Naval Blockade, which will now be lifted, may start the process of “heading home!” Say HELLO to your wives, husbands, parents, and families from me, your favorite President! The enriched material, sometimes referred to as “Nuclear Dust,” which is buried deep underground with virtually collapsed mountains, caused by our powerful B2 Bomber attack 11 months ago, sitting on top of it, will be unearthed by the United States (which, it is agreed, is the only Country, along with China, with the mechanical capability of doing so!), in close coordination and conjunction with the Islamic Republic of Iran, plus the International Atomic Energy Agency, and DESTROYED. No money will be exchanged, until further notice. Other items, of far less importance, have been agreed to. I will be meeting now, in the Situation Room, to make a final determination. Thank you for your attention to this matter! President DONALD J. TRUMP"
+
+ترجمه فارسی در بخش نظرات
+
+𝕏 · @shin_persian
+</div>
+
+## DW_Farsi — post 125286
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔶 رومانی پس از حمله روسیه خواستار سامانه‌های ضد پهپادی ناتو شد
+
+اصابت یک پهپاد روسی به یک ساختمان مسکونی در رومانی، از اعضای ناتو و اتحادیه اروپا باعث انتقاد شدید متحدان ائتلاف دفاعی نظامی ناتو از مسکو و ابراز همبستگی با بخارست شد.
+
+به گفته رسانه‌ها، برخورد این پهپاد به این ساختمان در شامگاه منتهی به جمعه ۲۹ مه منجر به زخمی شدن دو نفر شد. طبق اعلام وزارت کشور، جراحات این دو نفر سطحی بود و در محل تحت درمان قرار گرفت.
+
+مارک روته، دبیرکل ناتو در پی این رخداد "حمایت کامل و بی‌قید و شرط" ناتو از رومانی را به نیکوشور دان، رئیس‌جمهور این کشور ابراز کرد. متیو ویتاکر، سفیر آمریکا در ناتو نیز اظهارات مشابهی کرده است.
+@dw_farsi
+</div>
+
+## IranianMinds — post 21021
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ایران باید فوراً هر مینی که باقی مانده را جمع‌آوری یا منفجر کند، که البته تعدادشان زیاد نخواهد بود!). کشتی‌هایی که به دلیل محاصره دریایی بی‌سابقه و شگفت‌انگیز ما در تنگه گیر افتاده بودند، حالا با لغو این محاصره می‌توانند روند حرکت به سمت خانه‌هایشان را آغاز کنند! از طرف من، رئیس‌جمهور محبوبتان، به همسران، شوهران، والدین و خانواده‌هایتان سلام برسانید!
+</div>
+
+## IranianMinds — post 21020
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 ژنرال محسن رضایی : محاصره دریایی رو برمیداریم‌ ما حالا چه با زبون زور و قدرت و یا چه با مذاکره @IranianMinds
+</div>
+
+## IranianMinds — post 21019
+
+<div align="center">
+  <img src="telegram/content/IranianMinds_21019_1780067029.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 بیانیه دونالد ترامپ و اعلام شروط نهایی برای توافق با ایران
+
+دونالد ترامپ با انتشار پستی لیست مطالبات و شروط خود را برای توافق اعلام کرد:
+
+«ایران باید موافقت کند که هرگز سلاح یا بمب هسته‌ای نخواهد داشت. تنگه هرمز باید فوراً برای تردد نامحدود کشتی‌ها در هر دو جهت باز شود و هیچ عوارضی دریافت نشود. تمام مین‌های دریایی (بمب‌ها) در صورت وجود، باید از بین بروند (ما پیش از این، تعداد زیادی از این مین‌ها را با مین‌روب‌های پیشرفته زیردریایی خود منفجر و پاکسازی کرده‌ایم.
+
+ایران باید فوراً هر مینی که باقی مانده را جمع‌آوری یا منفجر کند، که البته تعدادشان زیاد نخواهد بود!). کشتی‌هایی که به دلیل محاصره دریایی بی‌سابقه و شگفت‌انگیز ما در تنگه گیر افتاده بودند، حالا با لغو این محاصره می‌توانند روند حرکت به سمت خانه‌هایشان را آغاز کنند! از طرف من، رئیس‌جمهور محبوبتان، به همسران، شوهران، والدین و خانواده‌هایتان سلام برسانید!
+
+مواد غنی‌سازی شده که گاهی به آن "گرد و غبار هسته‌ای" می‌گویند و در اعماق زمین زیر کوه‌هایی دفن شده که ۱۱ ماه پیش در اثر حمله بمب‌افکن‌های قدرتمند B2 ما عملاً فروریختند، باید توسط ایالات متحده (که توافق شده تنها کشوری است که همراه با چین توانایی مکانیکی انجام این کار را دارد) با هماهنگی و همکاری نزدیک جمهوری اسلامی ایران و آژانس بین‌المللی انرژی اتمی، از زیر زمین خارج و نابود شود.
+
+تا اطلاع ثانوی هیچ پولی رد و بدل نخواهد شد. در مورد موارد دیگر که اهمیت بسیار کمتری دارند نیز توافق شده است. من اکنون در اتاق وضعیت جلسه خواهم داشت تا تصمیم نهایی را بگیرم. از توجه شما به این موضوع سپاسگزارم!»
+
+@IranianMinds
+</div>
+
+## IranianMinds — post 21018
+
+<div align="center">
+  <img src="telegram/content/IranianMinds_21018_1780067030.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+مواظب خودتون باشید وقتی وارد اینستا میشید 😂
+
+@IranianMinds
+</div>
+
+## Dirty_Kids — post 390483
+
+<div align="center">
+  <img src="telegram/content/Dirty_Kids_390483_1780067031.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+این چرا اینشکلی شده؟
+
+عکس وایرال شده از ظاهر جدید و عجیب نگار جواهریان
+
+
+@Dirty_Kids 👻
+</div>
+
+## Dirty_Kids — post 390482
+
+<div align="center">
+  <a href="telegram/content/Dirty_Kids_390482_1780067031.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 پربازدیدترین کلیپ اینستاگرام فارسی تو ۲۴ ساعت اخیر با ۱۵ میلیون بازدید!
+
+
+@Dirty_Kids 👻
+</div>
+
+## alonews — post 123517
+
+<div align="center">
+  <a href="telegram/content/alonews_123517_1780067033.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈ترامپ: محاصره دریایی ایران از همین حالا برداشته خواهد شد. 
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 123516
+
+<div align="center">
+  <a href="telegram/content/alonews_123516_1780067034.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴فووووووووووووووووووووری
+</div>
+
+## alonews — post 123515
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴فووووووووووووووووووووری
+</div>
+
+---
 📅 بروزرسانی: 1405/03/08 18:23
 ---
 
