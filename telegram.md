@@ -7,6 +7,171 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/03/08 19:23
+---
+
+## WithYashar — post 12870
+
+<div align="center">
+  <img src="telegram/content/WithYashar_12870_1780069988.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+پس از پست ترامپ در تروث سوشال، قیمت نفت برنت برای اولین بار پس از 50 روز به زیر 90 دلار در هر بشکه رسید.
+@withyashar
+</div>
+
+## DEJradio — post 5103
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⭕️ ترامپ برای تصمیم پایانی در مورد جمهوری اسلامی به اتاق وضعیت می‌رود
+
+دونالد ترامپ، رئیس جمهوری آمریکا اعلام کرد روز آدینه در اتاق وضعیت کاخ سفید همراه با مشاورانش درمورد توافق احتمالی با جمهوری اسلامی تصمیم پایانی را می‌گیرد.
+ترامپ گفت جمهوری اسلامی باید متعهد شود هرگز سلاح هسته‌ای تولید نمی‌کند، تنگۀ هرمز دوباره باز می‌شود و مین‌های دریایی نیز برداشته یا منهدم می‌شود.
+رئیس جمهوری آمریکا گفت بر اساس توافق احتمالی، محاصرۀ دریایی آمریکا علیه جمهوری اسلامی لغو می‌شود.
+همچنین کشتی‌هایی که در تنگۀ هرمز متوقف شده بودند، روند بازگشت را آغاز می‌کنند.
+دونالد ترامپ در مورد ذخایر اورانیوم غنی‌شدۀ جمهوری اسلامی گفت این مواد با هماهنگی تهران و آژانس بین‌المللی انرژی اتمی، از زیر زمین خارج و نابود می‌شود.
+ترامپ گفت تنها آمریکا و چین توانایی فنی اجرای چنین عملیاتی را دارند.
+او تأکید کرد که فعلا هیچ پولی با تهران رد و بدل نمی‌شود. ترامپ افزود دربارۀ موضوعات دیگر که اهمیت کمتری دارند، توافق به‌دست آمده است.
+
+#خبر #دژ #توافق
+@DEJradio
+</div>
+
+## IranIntlTV — post 339606
+
+<div align="center">
+  <img src="telegram/content/IranIntlTV_339606_1780069989.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ابراهیم رضایی، سخنگوی کمیسیون امنیت ملی مجلس گفت: «ما مخالف تعلیق غنی‌سازی یا اعطای مواد هسته‌ای به دشمن هستیم. چرا که دیگر آن دوره گذشته است.»
+او افزود: «جنگ در همه جبهه‌ها به‌ویژه لبنان باید پایان یابد. دشمن باید محاصره دریایی را بردارد و مدیریت ما را در تنگه هرمز به رسمیت بشناسد.»
+
+او ادامه داد: «مذاکرات جاری را از جنس مذاکرات گذشته نمی‌بینیم که یک امتیازی بدهیم و یک امتیازی بگیریم. بلکه ما خود را پیروز می‌دانیم و معتقد هستیم که خواسته‌های حداکثری خود را باید از دشمن مطالبه کنیم.»
+https://iranintl.com/202605298968
+</div>
+
+## Shin_Persian — post 6301
+
+<div align="center">
+  <img src="telegram/content/Shin_Persian_6301_1780069989.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔁 Quoting above tweet: Shin ✓ @hey_itsmyturn Fri, 29 May 2026 15:49:40 UTC IRGC-owned Fars News in response to POTUS' post: """ Knowledgeable sources, while refuting the recent claims of the American president regarding a potential agreement with Iran,…
+</div>
+
+## Shin_Persian — post 6300
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔁 Quoting above tweet:
+Shin ✓ @hey_itsmyturn
+Fri, 29 May 2026 15:49:40 UTC
+
+IRGC-owned Fars News in response to POTUS' post:
+
+""" Knowledgeable sources, while refuting the recent claims of the American president regarding a potential agreement with Iran, have described his statements as "a mixture of truth and falsehood" and an attempt to present a fabricated victory. According to these sources, it has become evident to nearly everyone that these claims lack credibility.
+
+According to this report, the text of the agreement, drafted under the framework of "commitment for commitment," is in its final stages of approval in Iran, and a definitive decision has not yet been made. In contrast, Trump, who sees himself unable to withdraw from the agreement, has made statements that contradict the provisions of the agreement text. He has simultaneously announced an immediate end to the blockade.
+
+Trump's Distortion of Key Agreement Provisions:
+
+1. Strait of Hormuz: Trump has claimed that Iran is obliged to open the Strait of Hormuz without imposing tolls, whereas no such clause exists in the agreement text. Iran has emphasized that after the lifting of the blockade, it will open the strait according to its pre-determined arrangements. These arrangements could include monitoring and inspection of vessels, as well as providing services and ensuring security, for which Iranian reporters from Fars News Agency hear preparations are underway.
+
+2. Dismantling of Nuclear Materials: Trump has alleged that Iran will dismantle or destroy its nuclear materials. Knowledgeable sources have stressed that not only is there no such provision in the memorandum of understanding, but this claim is fundamentally groundless.
+
+Key Agreement Clauses Ignored by Trump:
+
+1. Immediate Payment of 12 Billion Dollars: The most crucial part of the agreement, which Trump has not mentioned, is the condition for an immediate payment of 12 billion dollars from Iran's blocked assets. According to the agreement text, this amount must be paid immediately, and until this payment is made, Iran will not enter any subsequent negotiation stages. Failure to implement this clause would constitute a violation of U.S. commitments.
+
+2. Ceasefire in Lebanon: Another issue is the establishment of a complete ceasefire in Lebanon in accordance with Hezbollah's views.
+
+According to knowledgeable sources, only if these issues are resolved will Iran, in the next stage, engage in discussions regarding the lifting of all sanctions and the nuclear issue, in accordance with its red lines.
+
+Concurrent with these statements, Iranian officials have emphasized that the final agreement will be formulated based on the principles and red lines of the Islamic Republic of Iran's system and with a complete distrustful approach towards the United States, such that any breaking of promises will be met with immediate reciprocal action. """
+
+ترجمه فارسی در بخش نظرات
+
+𝕏 · @shin_persian
+</div>
+
+## Shin_Persian — post 6299
+
+<div align="center">
+  <img src="telegram/content/Shin_Persian_6299_1780069990.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+↩️ Quoted tweet: Shin ✓ @hey_itsmyturn Fri, 29 May 2026 14:55:22 UTC President Trump @POTUS: "Iran must agree that they will never have a Nuclear Weapon or Bomb. The Hormuz Strait must be immediately open, no tolls, for unrestricted shipping traffic, in…
+</div>
+
+## Shin_Persian — post 6298
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+↩️ Quoted tweet:
+Shin ✓ @hey_itsmyturn
+Fri, 29 May 2026 14:55:22 UTC
+
+President Trump @POTUS:
+"Iran must agree that they will never have a Nuclear Weapon or Bomb. The Hormuz Strait must be immediately open, no tolls, for unrestricted shipping traffic, in both directions. All water mines (bombs), if any, will be terminated (we have removed, through
+
+↩️ توییت نقل‌قول شده — برای پاسخ، پست زیر را ببینید.
+
+فارسی
+
+پرزیدنت ترامپ @POTUS:
+«ایران باید موافقت کند که هرگز سلاح یا بمب هسته‌ای نخواهد داشت. تنگه هرمز باید فورا، بدون عوارض، برای ترافیک کشتیرانی نامحدود در هر دو جهت باز شود. تمام مین‌های آبی (بمب‌ها)، در صورت وجود، منهدم خواهند شد (ما برداشته‌ایم، از طریق...»
+
+𝕏 · @shin_persian
+</div>
+
+## Persian_Trend_Official — post 15254
+
+<div align="center">
+  <a href="telegram/content/Persian_Trend_Official_15254_1780069991.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+حزب‌الله لبنان ویدیویی از شلیک موشک کروز قدس به سمت مواضع ارتش اسرائیل در تاریخ 27 می(دو روز پیش)منتشر کرد.
+
+موشک کروز قدس در ایران با ناو پاوه شناخته میشود که دارای بردی 1650 کیلومتری است. حوثی های یمن و مقاومت عراق از دیگر کاربران این موشک هستند.
+
+📝 Amir
+
+📌 @persian_trend_official
+پرشین ترند | متفاوت‌ترین کانال نظامی
+</div>
+
+## alonews — post 123527
+
+<div align="center">
+  <a href="telegram/content/alonews_123527_1780069992.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈 خبرگزاری فارس: مهم‌ترین بخش توافق، پرداخت فوری ۱۲ میلیارد دلار از دارایی‌های مسدود شده ایران و آتش‌بس کامل در لبنان است که ترامپ به آن اشاره‌ای نکرد.
+
+
+🔴طبق متن توافق، این مبلغ باید فوراً پرداخت شود و تا زمانی که این پرداخت انجام نشود، ایران وارد هیچ مرحله مذاکره دیگری نخواهد شد.
+
+
+🔴تنها در صورت حل این مسائل، ایران در مرحله بعدی در مورد لغو همه تحریم‌ها و موضوع هسته‌ای، مطابق با خطوط قرمز خود، وارد مذاکره خواهد شد.
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 123526
+
+<div align="center">
+  <a href="telegram/content/alonews_123526_1780069992.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈«آکسیوس به نقل از مقام‌های آمریکایی: ما از ایران درباره مواد هسته‌ای تعهدات شفاهی گرفته‌ایم و مهم‌ترین موضوع، آن چیزی است که در مذاکرات بر سرش توافق می‌شود.»
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/03/08 19:13
 ---
 
