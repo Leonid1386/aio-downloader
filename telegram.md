@@ -7,6 +7,223 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/03/08 22:53
+---
+
+## VahidOOnLine — post 242816
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_242816_1780082580.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️ ابراهیم عزیزی، رئیس کمیسیون امنیت ملی مجلس شورای اسلامی با انتشار پیامی در شبکه اجتماعی ایکس، ایران را «پیروز و فاتح میدان» دانست و نوشت: «ترامپ باید بداند که ایران، به عنوان پیروز و فاتح میدان شرایط را تعیین می‌کند: نقد مقابل نقد، نسیه مقابل نسیه، هیچ مقابل هیچ؛ البته برای موضوعاتی که مورد مذاکره است نه آرزوهایش!»
+
+این پیام ساعاتی پس از آن منتشر شد که ترامپ، با انتشار جزئیاتی از تفاهم‌نامه مورد مذاکره اعلام کرد که بازگشایی تنگه هرمز، برقرار نشدن هرگونه سازوکار اخذ عوارض از کشتی‌ها و نابودی ذخایر اورانیوم با غنای بالا از موارد ذکر شده هستند. اسماعیل بقایی، سخنگوی وزارت خارجه این موارد را رد کرد. ترامپ بارها تاکید کرده که تنها توافقی را می‌پذیرد که مسئله تنگه هرمز و برنامه هسته‌ای جمهوری اسلامی را در بر بگیرد.
+‌🇸🇦 Indypersian
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 242815
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_242815_1780082580.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+خبرگزاری رویترز به نقل از منابع جمهوری اسلامی گزارش داد که تهران ممکن است با انتقال نیمی از ذخایر اورانیوم غنی‌شده ۶۰درصدی به یک کشور ثالث موافقت کند.
+
+بر اساس این گزارش، در این حالت، جمهوری اسلامی در مقابل این مقدار، اورانیوم با غنای ۵ درصد دریافت می‌کند.
+
+رویترز نوشت که همچنین ممکن است نیم دیگر این ذخایر در داخل ایران رقیق‌سازی شود.
+‌🏁 🇬🇧 IranintlTV
+
+🤖 @VahidOOnLine
+</div>
+
+## WithYashar — post 12901
+
+<div align="center">
+  <img src="telegram/content/WithYashar_12901_1780082581.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+پوستر
+@withyashar
+</div>
+
+## FoxNewsTwitter — post 342406
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_342406_1780082582.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+"They're among us"
+
+The White House has a new message on aliens: They are not coming from outer space — they are already here and ICE is tracking them.
+A new website, Aliens.gov tracks illegal immigrant arrests, migrant encounters and ICE operations nationwide, using a live heat map and searchable arrest data by city, state and alleged crime.
+
+“Millions arrived under the cover of darkness,” the site says, accusing past leaders of covering up and accelerating the problem.
+
+A White House official told Fox News Digital this is a “first of its kind effort” to draw attention to the fallout from the previous administration’s border policies.
+</div>
+
+## pm_afshaa — post 91866
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+https://t.me/proxy?server=87.248.129.50&port=15&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
+
+پروکسی سرعت بالا مخصوص دانلود
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## IranIntlTV — post 339637
+
+<div align="center">
+  <img src="telegram/content/IranIntlTV_339637_1780082585.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔻نوواک جوکوویچ، مرد شماره ۴ تنیس جهان، در دور سوم رولان گاروس پس از پیش افتادن در دو ست، در نهایت مقابل ژوائو فونسکا، پدیده ۱۹ ساله برزیلی، باخت و حذف شد. پس از ۴ ساعت و ۵۳ دقیقه رقابت نفس‌گیر، شگفتی کامل شد و ورزشگاه فیلیپ شاتریه پس از حذف یانیک سینر، دومین شوک فصل را دید.
+
+🔹اکنون قطعی است که دومین گرنداسلم سال را بازیکنی فتح خواهد کرد که تاکنون چنین عنوانی را به دست نیاورده است. نوواک جوکوویچ آخرین قهرمان گرنداسلم حاضر در پاریس بود.
+
+🔹جدی‌ترین مدعی حال حاضر الکساندر زورف است که امشب در دور سوم به مصاف کوئنتن آلیس می‌رود.
+
+🔹حذف جوکوویچ، به این معناست که از میان پنج نفر برتر رنکینگ، تنها زورف در جدول باقی مانده است.
+
+🔹یانیک سینر، نفر اول جهان، در دور دوم و آن هم پس از برتری ۲-۰ در ست‌ها مقابل خوان مانوئل سروندولو از آرژانتین، به دلیل گرمازدگی شکست خورد.
+
+🔹کارلوس آلکاراس، نفر دوم جهان، به دلیل آسیب‌دیدگی دست از حضور در پاریس انصراف داد.
+
+🔹امشب، نواک جوکوویچ در میان تشویق پرشور تماشاگران زمین را ترک کرد؛ آیا این آخرین باری است که این ستاره ۳۹ ساله را در رولان گاروس می‌بینیم؟
+
+@iranintltvsport
+</div>
+
+## Persian_Trend_Official — post 15291
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+تا دقایقی دیگه لایو آغاز میشه
+</div>
+
+## IranianMinds — post 21041
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+فاکس نیوز :
+خبرهای مهمی از نشست ترامپ در کاخ سفید بیرون خواهد آمد
+
+@IranianMinds
+</div>
+
+## IranianMinds — post 21040
+
+<div align="center">
+  <img src="telegram/content/IranianMinds_21040_1780082586.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴شش فروند هواپیمای نظامی Boeing C-17A Globemaster lll متعلق به نیروی هوایی ایالات متحده در حال ورود به خاورمیانه هستند.
+
+@IranianMinds
+</div>
+
+## Dirty_Kids — post 390517
+
+<div align="center">
+  <a href="telegram/content/Dirty_Kids_390517_1780082586.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+حسین علایی از فرمانده‌های پیشین نیروی دریایی سپاه تروریستی تو این ویدئو می‌گه موشعلی رو شمخانی بگا داد و باعث کسپر شدنش شد،
+
+«سه روز قبل از جنگ چهل روزه به شمخانی قحبه گفتم آمریکا و اسرائیل با کسپر کردن رهبری جنگ رو شروع می‌کنند اما شمخانی زن‌هزارتختخوابی شونه‌ش رو انداخت بالا و گفت نووچ، نمی‌تونن،
+گفتم چرا نمی‌تونن کسمشنگ؟
+گفت نمی‌تونن پیداش کنن»
+﻿
+
+@Dirty_Kids 👻
+</div>
+
+## Dirty_Kids — post 390516
+
+<div align="center">
+  <a href="telegram/content/Dirty_Kids_390516_1780082588.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 یه پست جدید و جنجالیِ دیگه از اکانت کاخ سفید همراه این کپشن:
+
+اونا [آدم فضاییا] بین ما راه میرن.
+
+
+@Dirty_Kids 👻
+</div>
+
+## Dirty_Kids — post 390512
+
+<div align="center">
+  <a href="telegram/content/Dirty_Kids_390512_1780082590.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 مردم ایران ۳ ماه اینترنت نداشتن، حالا که اینترنتشون برگشته به روال سابق، لابد دیگه به نحو احسنت ازش استفاده میکنن؛
+
++ همچنان یسری ایرنی‌ها تو اینستاگرام:
+
+
+@Dirty_Kids 👻
+</div>
+
+## Hranews — post 113229
+
+<div align="center">
+  <img src="telegram/content/Hranews_113229_1780082592.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+تداوم بازداشت؛ گزارشی از آخرین وضعیت عبدالرحیم سلیمانی در زندان قم
+
+
+❗️
+❗️
+❗️
+❗️
+❗️ – عبدالرحیم سلیمانی اردستانی، پژوهشگر دینی و استاد دانشگاه، با وجود گذشت بیش از دو ماه از زمان بازداشت، همچنان به‌صورت بلاتکلیف در زندان ساحلی قم نگهداری می‌شود. این زندانی سیاسی اخیراً با نگارش نامه‌ای از داخل زندان، به تشریح آخرین وضعیت خود پرداخته است.
+
+به گزارش خبرگزاری هرانا، ارگان خبری مجموعه فعالان حقوق بشر در ایران، عبدالرحیم سلیمانی اردستانی، کماکان به‌صورت بلاتکلیف قضایی در زندان ساحلی قم به‌سر می‌برد.
+
+آقای سلیمانی اخیرا با نگارش نامه‌ای اعلام کرده است که با ۱۱ اتهام از جمله «تشویش اذهان عمومی»، «توهین به مقدسات»، «توهین به رهبری» (به دو شخص علی و مجتبی خامنه‌ای)، «تجمع در اعتراض به حصر میرحسین موسوی»، «اجتماع و تبانی علیه امنیت داخلی»، «توهین به مقدسات تشیع»، «فعالیت تبلیغی ضد نظام»، «نشر اکاذیب رایانه‌ای به قصد تشویش اذهان عمومی»، «توهین به مراجع»، «هتک حیثیت روحانیت» و «کنترل ذهن و القائات روانی» مواجه شده است و در ادامه از خود نسبت به این اتهامات مذکور دفاع کرده است.
+در بخشی از این نامه آمده است که وی بدون ارائه حکم قضایی و با برخوردی خشونت‌آمیز و توأم با بی‌احترامی بازداشت شده و حدود دو ساعت تحت ضرب‌وشتم ماموران امنیتی قرار گرفته است. همچنین، با گذشت بیش از دو ماه از زمان بازداشت، او همچنان از حق ملاقات محروم مانده و یک ماه از این مدت را در سلول انفرادی سپری کرده است.
+
+ادامه مطلب
+
+#عبدالرحیم_سلیمانی_اردستانی
+
+↘️
+@hranews_bot تماس ✉️ -  @Hranews  کانال هرانا 🆑
+</div>
+
+## alonews — post 123568
+
+<div align="center">
+  <a href="telegram/content/alonews_123568_1780082592.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈 پنتاگون در حال جذب صدها عضو نیروهای مسلح برای حضور در رویداد UFC برنامه‌ریزی‌شده توسط رئیس‌جمهور ترامپ در کاخ سفید در ۱۴ ژوئن است، گزارش واشنگتن پست.
+
+
+🔴بر اساس یادداشت‌های داخلی که واشنگتن پست بررسی کرده است، نیروهای انتخاب‌شده برای حضور به عنوان تماشاگر با یونیفرم باید هزینه‌های سفر و اقامت خود را بپردازند، استانداردهای فعلی آمادگی جسمانی نظامی — از جمله الزامات قد به کمر — را رعایت کنند و یونیفرم رسمی بپوشند.
+
+
+🔴مقامات به دنبال جذب پرسنل درجه‌دار جوان و افسران جوان برای حضور هستند.
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/03/08 22:43
 ---
 
@@ -260,8 +477,6 @@ https://ir.voanews.com/a/boroumand-center-documented-660-execution/8155307.html
 
 @IranianMinds
 </div>
-
-
 <!-- MSG END -->
 
 <!-- NAV START -->
