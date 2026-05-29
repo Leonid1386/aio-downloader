@@ -7,6 +7,103 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/03/08 17:22
+---
+
+## WithYashar — post 12858
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+تسنیم : مذاکرات در جریان است و متن توافق تغییر هایی داشته است
+@withyashar
+</div>
+
+## DEJradio — post 5102
+
+<div align="center">
+  <a href="telegram/content/DEJradio_5102_1780062764.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🚨
+🔸 مردم نباید از حکومتشان بترسند؛ حکومت باید از مردم بترسد
+
+#جمهوری_اسلامی #انقلاب_شیروخورشید
+@DEJradio
+</div>
+
+## IranIntlTV — post 339584
+
+<div align="center">
+  <img src="telegram/content/IranIntlTV_339584_1780062766.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+سنتکام در شبکه ایکس اعلام کرد نیروهای آمریکایی همچنان به اجرای محاصره بنادر ایران ادامه می‌دهند و از زمان آغاز محاصره دریایی تاکنون، ۱۱۵ کشتی تجاری مجبور به تغییر مسیر شده‌اند.
+
+سنتکام تصویری از یک جنگنده نیروی هوایی ایالات متحده بر روی یک ناو جنگی منتشر کرده است.
+https://iranintl.com/202605293904
+</div>
+
+## IranIntlTV — post 339583
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_339583_1780062766.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+محمدباقر قالیباف درباره مذاکره با آمریکا گفت امتیازها با موشک گرفته می‌شود و مذاکره صرفا برای تفهیم طرف مقابل است. او تاکید کرد جمهوری اسلامی به اظهارات آمریکا اعتماد ندارد و هر توافقی زمانی موفق است که طرف‌ها از فردای آن برای جنگ آماده‌تر باشند.
+گفت‌وگو با علی‌حسین قاضی‌زاده، عضو تحریریه ایران‌اینترنشنال
+@iranintltv
+</div>
+
+## FarsiVOA — post 218980
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔺گزارش | اعدام مجتبی کیان و آن‌چه روایت‌های حکومتی پنهان می‌کنند ▪️نامش مجتبی کیان بود. بنابر اطلاعات تاییدنشده‌ای که خبرگزاری قوه قضاییه جمهوری اسلامی و صداوسیما منتشر کرده‌اند، نام پدرش محمدقلی بود و در اطراف کرج زندگی می‌کرد. او روز ۳ خرداد ۱۴۰۵ اعدام…
+</div>
+
+## Persian_Trend_Official — post 15244
+
+<div align="center">
+  <a href="telegram/content/Persian_Trend_Official_15244_1780062768.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+تصاویر ماهواره ای از تأثیرات حملات هوایی امریکا و اسرائیل بر پایگاه موشکی یزد
+
+طبق تصاویر ماهواره ای منتشر شده از این پایگاه، تقریباً تمامی تاسیسات روی سطح این پایگاه از جمله ساختمان ها و سوله ها به طور کامل منهدم شدند.
+
+ولی با وجود بمباران مکرر ورودی و خروجی های این پایگاه و حمله با استفاده از بمب های سنگرشکن، پایگاه عملیاتی ماند و تا آخرین سلسله موج های عملیات وعده صادق-4 مشارکت داشته است.
+
+📝 Amir
+
+📌 @persian_trend_official
+پرشین ترند | متفاوت‌ترین کانال نظامی
+</div>
+
+## alonews — post 123503
+
+<div align="center">
+  <a href="telegram/content/alonews_123503_1780062769.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈نتانیاهو در جریان بازدید از مرز شمالی: نیروهای ما از رودخانه لیتانی عبور کرده و مناطق فرماندهی مشرف به مرز را در کنترل خود دارند
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 123502
+
+<div align="center">
+  <a href="telegram/content/alonews_123502_1780062769.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈فیلد مارشال محسن رضایی: محاصره دریایی را یا با مذاکره یا با اقدام مستقیم می‌شکنیم؛ اگر درگیری ادامه پیدا کند، بعد سومی از قدرت را آشکار می‌کنیم.
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/03/08 17:12
 ---
 
