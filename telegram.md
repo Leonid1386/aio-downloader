@@ -7,6 +7,60 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/03/09 08:52
+---
+
+## VahidOOnLine — post 242880
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_242880_1780118557.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️قیمت نفت دربازارهای جهانی صبح شنبه نهم خردادماه با وجود روشن نبودن وضعیت توافق احتمالی میان جمهوری اسلامی ایران و ایالات متحده آمریکا، برای دومین روز پیاپی کاهش یافت.
+
+بهای هر بشکه نفت خام برنت دریای شمال، قیمت معیار نفت، برای تحویل در ماه اوت، پس از بسته شدن بازارهای آمریکایی در آخرین روز کاری هفته، با ۱.۷ درصد کاهش نسبت به روز قبل به ۹۱.۱۲ دلار کاهش یافت.
+
+روند کاهش قیمت نفت خام پس از پیام دونالد ترامپ درباره بازگشایی قریب‌الوقوع تنگه هرمز و خروج کشتی‌های گرفتار در خلیج فارس از سه ماه پیش، شدت گرفت. با وجود آنکه رئیس جمهوری آمریکا هنوز تصمیم قطعی خود درباره توافق پایان جنگ را اعلام نکرده است، بازارهای جهانی با خوشبینی منتظر بازگشایی تنگه هرمز هستند.
+‌🇸🇦 Indypersian
+
+🤖 @VahidOOnLine
+</div>
+
+## IranIntlTV — post 339688
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_339688_1780118558.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+سرخط خبرهای شنبه ۹ خرداد
+@iranintltv
+</div>
+
+## alonews — post 123600
+
+<div align="center">
+  <a href="telegram/content/alonews_123600_1780118559.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈فارس : متن توافق که تحت قالب «تعهد در برابر تعهد» تدوین شده، در مراحل نهایی تصویب در ایران قرار دارد و هنوز تصمیم قطعی اتخاذ نشده است
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 123599
+
+<div align="center">
+  <a href="telegram/content/alonews_123599_1780118559.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈 یک مقام کاخ سفید به الجزیره: ترامپ هیچ توافقی با ایران امضا نخواهد کرد، مگر اینکه برای آمریکا سودمند باشد و با خطوط قرمز او مطابقت کند.
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/03/09 08:42
 ---
 
